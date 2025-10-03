@@ -1,0 +1,167 @@
+
+(domain.Ride#toString()Ljava/lang/String;S
+GC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/domain/Ride.javaô ô("1*ê
+1
+õ	 õ(j
+h
+
+õ	 õ(
+%0java.lang.Integer"__id*;
+
+__unknown_file (*
+domain.Ride"
+
+rideNumbero
+m
+
+õ	 õ(
+%1java.lang.String"__concat*'
+
+õ	 õ(
+
+%0java.lang.Integer*
+
+õ õ(
+: c
+a
+
+õ õ(
+%2java.lang.String"__id*5
+
+__unknown_file (*
+domain.Ride"
+from€
+~
+
+õ	 õ(
+%3java.lang.String"__concat*&
+
+õ	 õ(
+
+%1java.lang.String*&
+
+õ õ(
+
+%2java.lang.Stringq
+o
+
+õ	 õ(%
+%4java.lang.String"__concat*&
+
+õ	 õ(
+
+%3java.lang.String*
+
+õ õ(%	
+ --> a
+_
+
+õ& õ((
+%5java.lang.String"__id*3
+
+__unknown_file (*
+domain.Ride"
+to€
+~
+
+õ	 õ((
+%6java.lang.String"__concat*&
+
+õ	 õ(%
+
+%4java.lang.String*&
+
+õ& õ((
+
+%5java.lang.Stringo
+m
+
+õ	 õ(.
+%7java.lang.String"__concat*&
+
+õ	 õ((
+
+%6java.lang.String*
+
+õ) õ(.
+ | a
+_
+
+õ/ õ(3
+%8java.util.Date"__id*5
+
+__unknown_file (*
+domain.Ride"
+date~
+|
+
+õ	 õ(3
+%9java.lang.String"__concat*&
+
+õ	 õ(.
+
+%7java.lang.String*$
+
+õ/ õ(3
+
+%8java.util.Datep
+n
+
+õ	 õ(;
+%10java.lang.String"__concat*&
+
+õ	 õ(3
+
+%9java.lang.String*
+
+õ6 õ(;
+ | p
+n
+
+õ	 õ(E
+%11java.lang.String"__concat*'
+
+õ	 õ(;
+
+%10java.lang.String*
+
+õ> õ(E
+""q
+o
+
+õ	 õ(L
+%12java.lang.String"__concat*'
+
+õ	 õ(E
+
+%11java.lang.String*
+
+õG õ(L
+ | p
+n
+
+õ	 õ(S
+%13java.lang.String"__concat*'
+
+õ	 õ(L
+
+%12java.lang.String*
+
+õN õ(S
+""u
+s
+
+õ	 õ(Y
+%14java.lang.String"__concat*'
+
+õ	 õ(S
+
+%13java.lang.String*
+
+õT õ(Y	
+Ã¢â€šÂ¬"'
+
+õ õ(Z
+
+%14java.lang.StringB
+domain.RideH

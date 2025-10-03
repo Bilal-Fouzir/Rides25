@@ -1,0 +1,143 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-09-21 11:50:21 #1 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is opened by 27228@fouzirbilal
+
+[2025-09-21 11:50:21 #2 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is closed by 27228@fouzirbilal
+
+[2025-09-21 11:50:21 #3 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is opened by 27228@fouzirbilal
+
+[2025-09-21 11:50:21 #4 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is closed by 27228@fouzirbilal
+
+[2025-09-21 11:50:21 #5 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is opened by 27228@fouzirbilal
+
+[2025-09-21 11:50:22 #6 type.registry] 
+New type domain.Alerta
+
+[2025-09-21 11:50:22 #7 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-09-21 11:50:22 #8 type.registry] 
+New type domain.Ride
+
+[2025-09-21 11:50:22 #9 type] 
+Type domain.Ride is not enhanced.
+
+[2025-09-21 11:50:22 #10 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-09-21 11:50:22 #11 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-09-21 11:50:22 #12 type.registry] 
+New type domain.Balorazioa
+
+[2025-09-21 11:50:22 #13 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-09-21 11:50:22 #14 type.registry] 
+New type domain.Kotxea
+
+[2025-09-21 11:50:22 #15 type.registry] 
+New type domain.Driver
+
+[2025-09-21 11:50:22 #16 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-09-21 11:50:22 #17 type.registry] 
+New type domain.Erreserba
+
+[2025-09-21 11:50:22 #18 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-09-21 11:50:22 #19 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-09-21 11:50:22 #20 type] 
+Type domain.Driver is not enhanced.
+
+[2025-09-21 11:50:22 #21 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-09-21 11:50:22 #22 type.registry] 
+New type domain.Transaction
+
+[2025-09-21 11:50:22 #23 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-09-21 11:50:22 #24 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-09-21 11:50:22 #25 type.registry] 
+New type domain.Traveler
+
+[2025-09-21 11:50:22 #26 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-09-21 11:50:22 #27 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-09-21 11:50:22 #28 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is closed by 27228@fouzirbilal
+
+[2025-09-21 11:50:27 #29 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is opened by 27228@fouzirbilal
+
+[2025-09-21 11:50:27 #30 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is closed by 27228@fouzirbilal
+
+[2025-09-21 11:50:43 #31 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is opened by 27228@fouzirbilal
+
+[2025-09-21 11:50:43 #32 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is closed by 27228@fouzirbilal
+
+[2025-09-21 11:50:43 #33 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is opened by 27228@fouzirbilal
+
+[2025-09-21 11:50:43 #34 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-09-21 11:50:43 #35 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-09-21 11:50:43 #36 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-09-21 11:50:43 #37 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is closed by 27228@fouzirbilal
+
+[2025-09-21 11:50:45 #38 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is opened by 27228@fouzirbilal
+
+[2025-09-21 11:50:45 #39 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is closed by 27228@fouzirbilal
+
+[2025-09-21 11:50:56 #40 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is opened by 27228@fouzirbilal
+
+[2025-09-21 11:50:56 #41 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is closed by 27228@fouzirbilal
+
+[2025-09-21 11:50:56 #42 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is opened by 27228@fouzirbilal
+
+[2025-09-21 11:50:56 #43 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is closed by 27228@fouzirbilal
+
+[2025-09-21 11:51:08 #44 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is opened by 27228@fouzirbilal
+
+[2025-09-21 11:51:08 #45 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is closed by 27228@fouzirbilal
+
+[2025-09-21 11:51:12 #46 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is opened by 27228@fouzirbilal
+
+[2025-09-21 11:51:12 #47 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides24\src\main\resources\rides.temp' is closed by 27228@fouzirbilal
+

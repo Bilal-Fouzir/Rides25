@@ -1,0 +1,76 @@
+
+service.BLFacadeImplementation#getThisMonthDatesWithRides(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;)Ljava/util/List;d
+ZC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/service/BLFacadeImplementation.javan n(-"startingBlock*Æ
+startingBlockn- n(PÅ
+
+m m(
+%0"
+__annotate*)
+
+__unknown_file (
+	WebMethod*6
+
+__unknown_file (
+
+fromjava.lang.StringX
+V
+n5 n(9
+fromjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%0
+}
+m m(
+%1"
+__annotate*)
+
+__unknown_file (
+	WebMethod*4
+
+__unknown_file (
+
+tojava.lang.StringV
+T
+nB n(D
+tojava.lang.String"__annotation*"
+
+__unknown_file (
+
+%1
+}
+m m(
+%2"
+__annotate*)
+
+__unknown_file (
+	WebMethod*4
+
+__unknown_file (
+
+datejava.util.DateV
+T
+nK n(O
+datejava.util.Date"__annotation*"
+
+__unknown_file (
+
+%2*
+1*Ö
+1o o(O
+M
+p p(I
+datesjava.util.List"__id*"
+
+__unknown_file (
+"""%
+r r(
+
+datesjava.util.List:$
+n. n(:
+fromjava.lang.String:"
+n; n(E
+tojava.lang.String:"
+nF n(O
+datejava.util.DateB" 
+service.BLFacadeImplementationH

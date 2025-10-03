@@ -1,0 +1,187 @@
+
+1domain.Erreklamazioa#toString()Ljava/lang/String;Z
+PC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/domain/Erreklamazioa.javaV V("1*‰
+1W	 W(ä
+á
+W	 W(.
+%0java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*8
+
+__unknown_file ("
+java.util.ResourceBundle*)
+
+__unknown_file (
+	Etiquetasñî
+W	 W(?
+%1java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*<
+
+__unknown_file ( 
+
+%0java.util.ResourceBundle*#
+
+__unknown_file (
+Err2getString(Ljava/lang/String;)l
+j
+W	 W(F
+%2"__calculate*
+W@ W(A
++*$
+W	 W(?
+
+%1java.lang.String*
+WB W(F
+ |i
+g
+WI W(K
+%3java.lang.Integer"__id*<
+
+__unknown_file ( *
+domain.Erreklamazioa"
+idm
+k
+W	 W(K
+%4"__calculate*
+WG W(H
++*
+W	 W(F
+
+%2*%
+WI W(K
+
+%3java.lang.IntegerZ
+X
+W	 W(Q
+%5"__calculate*
+WL W(M
++*
+W	 W(K
+
+%4*
+WM W(Q
+| k
+i
+WT W(Y
+%6java.lang.String"__id*?
+
+__unknown_file (#*!
+domain.Erreklamazioa"
+emaill
+j
+W	 W(Y
+%7"__calculate*
+WR W(S
++*
+W	 W(Q
+
+%5*$
+WT W(Y
+
+%6java.lang.StringZ
+X
+W	 W(`
+%8"__calculate*
+WZ W([
++*
+W	 W(Y
+
+%7*
+W\ W(`
+: k
+i
+Wc W(h
+%9java.lang.String"__id*?
+
+__unknown_file (#*!
+domain.Erreklamazioa"
+titlem
+k
+W	 W(h
+%10"__calculate*
+Wa W(b
++*
+W	 W(`
+
+%8*$
+Wc W(h
+
+%9java.lang.String\
+Z
+W	 W(o
+%11"__calculate*
+Wi W(j
++*
+W	 W(h
+
+%10*
+Wk W(o
+: r
+p
+Wr W(}
+%12java.lang.String"__id*E
+
+__unknown_file ()*'
+domain.Erreklamazioa"
+descriptiono
+m
+W	 W(}
+%13"__calculate*
+Wp W(q
++*
+W	 W(o
+
+%11*%
+Wr W(}
+
+%12java.lang.String`
+^
+	W	 W(…
+%14"__calculate*
+W~ W(
++*
+W	 W(}
+
+%13*
+
+W€ W(…
+ | c
+a
+
+Wˆ W(¼
+%15"__calculate*
+
+W W(ž
+**
+
+Wˆ W(
+""*
+
+Wž W(¼
+""c
+a
+	W	 W(¼
+%16"__calculate*
+
+W† W(‡
++*
+	W	 W(…
+
+%14*
+
+Wˆ W(¼
+
+%15c
+a
+	W	 W(Á
+%17"__calculate*
+
+W½ W(¾
++*
+	W	 W(¼
+
+%16*
+
+W¾ W(Á
+â‚¬"
+	W W(Â
+
+%17B
+domain.ErreklamazioaH

@@ -1,0 +1,7 @@
+organization=bilalfouzir
+projectKey=bilalfouzir_rides25
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.67816
+dashboardUrl=https://sonarcloud.io/dashboard?id=bilalfouzir_rides25
+ceTaskId=AZmQ3F1OduYuB-oX8hBS
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZmQ3F1OduYuB-oX8hBS

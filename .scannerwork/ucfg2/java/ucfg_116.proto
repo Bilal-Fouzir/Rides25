@@ -1,0 +1,62 @@
+
+ domain.Driver#%field_initializer
+__unknown_file ("1*Ï
+1 (Š‡
+S
+IC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/domain/Driver.java!4 !(@
+%0java.util.LinkedList"java.util.LinkedList¨
+¥
+S
+IC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/domain/Driver.java!0 !(B
+%1"java.util.LinkedList#<init>()V*(
+ (
+
+%0java.util.LinkedList«
+¨
+S
+IC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/domain/Driver.java !(C!
+domain.Driver"
+transactions"__id*(
+ (
+
+%0java.util.LinkedListŠ‡
+S
+IC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/domain/Driver.java%' %(3
+%2java.util.LinkedList"java.util.LinkedList¨
+¥
+S
+IC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/domain/Driver.java%# %(5
+%3"java.util.LinkedList#<init>()V*(
+ (
+
+%2java.util.LinkedList£
+ 
+S
+IC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/domain/Driver.java# %(6
+domain.Driver"
+cars"__id*(
+ (
+
+%2java.util.LinkedListom
+S
+IC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/domain/Driver.java) )(*
+%4"java.util.VectorŽ
+‹
+S
+IC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/domain/Driver.java) )(,
+%5"java.util.Vector#<init>()V*
+ (
+
+%4Ž
+‹
+S
+IC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/domain/Driver.java' )(-
+domain.Driver"
+rides"__id*
+ (
+
+%4"i
+R
+IC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/domain/Driver.java É(
+implicit returnB
+domain.Driver

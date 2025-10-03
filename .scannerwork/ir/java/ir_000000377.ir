@@ -1,0 +1,12 @@
+%this ("domain.Balorazioa%email ("java.lang.String
+balorazioa! (/"int%title1 (="java.lang.String+description? (Q"java.lang.String"½'
+%
+   ("#set-field# email:,
+*
+! !("#set-field# balorazioa:'
+%
+" "("#set-field# title:-
++
+# #( 	"#set-field# description:
+
+$ $(*MC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/domain/Balorazioa.java

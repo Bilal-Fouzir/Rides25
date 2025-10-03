@@ -1,0 +1,6 @@
+&this< <("domain.Transaction 
+totalMoney< <(,"double"<,
+*
+= =("#set-field# totalMoney:
+
+> >(*NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/domain/Transaction.java

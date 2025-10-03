@@ -1,0 +1,73 @@
+
+*domain.Kotxea#toString()Ljava/lang/String;S
+IC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/domain/Kotxea.java: :("1*·
+1;
+ ;(h
+f
+;
+ ;(
+%0java.lang.String"__id*<
+
+__unknown_file ( *
+domain.Kotxea"
+	matrikulai
+g
+;
+ ;(
+%1java.lang.String"__concat*$
+;
+ ;(
+
+%0java.lang.String*
+; ;(
+ | d
+b
+; ;(#
+%2java.lang.String"__id*8
+
+__unknown_file (*
+domain.Kotxea"
+markaz
+x
+;
+ ;(#
+%3java.lang.String"__concat*$
+;
+ ;(
+
+%1java.lang.String*$
+; ;(#
+
+%2java.lang.Stringg
+e
+;
+ ;()
+%4java.lang.String"__concat*$
+;
+ ;(#
+
+%3java.lang.String*
+;& ;()
+ f
+d
+;, ;(3
+%5java.lang.String"__id*:
+
+__unknown_file (*
+domain.Kotxea"	
+modeloaz
+x
+;
+ ;(3
+%6java.lang.String"__concat*$
+;
+ ;()
+
+%4java.lang.String*$
+;, ;(3
+
+%5java.lang.String"$
+; ;(4
+
+%6java.lang.StringB
+domain.KotxeaH

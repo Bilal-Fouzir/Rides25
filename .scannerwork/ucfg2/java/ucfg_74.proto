@@ -1,0 +1,138 @@
+
++domain.Traveler#equals(Ljava/lang/Object;)ZU
+KC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/domain/Traveler.java` `("startingBlock*!
+2i
+ i("
+i i(
+""*€
+3g g(!c
+a
+g g("
+otherdomain.Traveler"__id*5
+
+__unknown_file (
+
+objjava.lang.Objectf
+d
+h h(
+%5java.lang.String"__id*:
+
+__unknown_file (*
+domain.Traveler"
+emailm
+k
+h h(
+%6java.lang.String"__id*A
+
+__unknown_file (%*#
+
+otherdomain.Traveler"
+emailá
+Ñ
+h h(
+%7boolean"	__compare*
+h h(
+!=*$
+h h(
+
+%5java.lang.String*$
+h h(
+
+%6java.lang.String*
+2
+1*Ñ
+startingBlock` `("ä
+á
+_ _(
+
+%8"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectW
+U
+` `(!
+objjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%8*
+9*!
+4f
+ f("
+f f(
+""*«
+5e e(èå
+e e(
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*/
+
+__unknown_file (
+domain.Traveler2
+getClass()ïí
+e e("
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*5
+
+__unknown_file (
+
+objjava.lang.Object2
+getClass()Ö
+Ç
+e e("
+%4boolean"	__compare*
+e e(
+!=*#
+e e(
+
+%2java.lang.Class*#
+e e("
+
+%3java.lang.Class*
+3
+4*!
+6d
+ d("
+d d(
+""*å
+7c c(	u
+s
+c c(
+%1boolean"	__compare*
+c
+ c(
+==*%
+c c(	
+
+objjava.lang.Object*
+c c(
+""*
+5
+6*!
+8b
+ b("
+b b(
+""*õ
+9a a(
+É
+Ä
+a a(
+%0boolean"	__compare*
+a a(
+==*
+a a(
+
+domain.Traveler*%
+a a(
+
+objjava.lang.Object*
+7
+8*!
+1j	 j("
+j j(
+"":#
+` `(!
+objjava.lang.ObjectB
+domain.TravelerHX

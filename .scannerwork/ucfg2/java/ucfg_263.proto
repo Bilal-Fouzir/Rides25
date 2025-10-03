@@ -1,0 +1,186 @@
+
+%gui.ErreklamatuGUI#%field_initializer
+__unknown_file ("1*Í&
+1 (ãà
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java" ((
+%0javax.swing.JLabel"javax.swing.JLabelœ
+Ã
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java (j
+%1".javax.swing.JLabel#<init>(Ljava/lang/String;)V*&
+ (
+
+%0javax.swing.JLabel*
+ (
+""≤
+Ø
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java (k%
+gui.ErreklamatuGUI"
+jLabelTitle"__id*&
+ (
+
+%0javax.swing.JLabelçä
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java# (*
+%2javax.swing.JButton"javax.swing.JButton—
+Œ
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java (h
+%3"/javax.swing.JButton#<init>(Ljava/lang/String;)V*'
+ (
+
+%2javax.swing.JButton*
+ (
+""≥
+∞
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java (i%
+gui.ErreklamatuGUI"
+jButtonSend"__id*'
+ (
+
+%2javax.swing.JButtonçä
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java# (*
+%4javax.swing.JButton"javax.swing.JButton—
+Œ
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java (\
+%5"/javax.swing.JButton#<init>(Ljava/lang/String;)V*'
+ (
+
+%4javax.swing.JButton*
+ (
+""≥
+∞
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java (]%
+gui.ErreklamatuGUI"
+jButtonBack"__id*'
+ (
+
+%4javax.swing.JButtonãà
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java+ (1
+%6javax.swing.JLabel"javax.swing.JLabelœ
+Ã
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java' (v
+%7".javax.swing.JLabel#<init>(Ljava/lang/String;)V*&
+ (
+
+%6javax.swing.JLabel*
+ (
+""∏
+µ
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java (w+
+gui.ErreklamatuGUI"
+jLabelDescription"__id*&
+ (
+
+%6javax.swing.JLabelãà
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java (  (.
+%8javax.swing.JLabel"javax.swing.JLabelœ
+Ã
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java $  (s
+%9".javax.swing.JLabel#<init>(Ljava/lang/String;)V*&
+ (
+
+%8javax.swing.JLabel*
+ (
+""∏
+µ
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java   (t+
+gui.ErreklamatuGUI"
+jLabelReviewTitle"__id*&
+ (
+
+%8javax.swing.JLabelåâ
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java!- !(3
+%10javax.swing.JLabel"javax.swing.JLabel—
+Œ
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java!) !(w
+%11".javax.swing.JLabel#<init>(Ljava/lang/String;)V*'
+ (
+
+%10javax.swing.JLabel*
+ (
+""∏
+µ
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java! !(x*
+gui.ErreklamatuGUI"
+jLabelReviewDone"__id*'
+ (
+
+%10javax.swing.JLabelñì
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java"- "(8
+%12javax.swing.ButtonGroup"javax.swing.ButtonGroupµ
+≤
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java") "(:
+%13"!javax.swing.ButtonGroup#<init>()V*,
+ ( 
+
+%12javax.swing.ButtonGroup∏
+µ
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java" "(;%
+gui.ErreklamatuGUI"
+buttonGroup"__id*,
+ ( 
+
+%12javax.swing.ButtonGroupåâ
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java#3 #(9
+%14javax.swing.JLabel"javax.swing.JLabel“
+œ
+Y
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java#/ #(Ü
+%15".javax.swing.JLabel#<init>(Ljava/lang/String;)V*'
+ (
+
+%14javax.swing.JLabel*
+ (
+""ø
+º
+Y
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java# #(á0
+gui.ErreklamatuGUI"
+jLabelDescriptionError"__id*'
+ (
+
+%14javax.swing.JLabelåâ
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java$' $(-
+%16javax.swing.JLabel"javax.swing.JLabel—
+Œ
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java$# $(t
+%17".javax.swing.JLabel#<init>(Ljava/lang/String;)V*'
+ (
+
+%16javax.swing.JLabel*
+ (
+""∏
+µ
+X
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java$ $(u*
+gui.ErreklamatuGUI"
+jLabelTitleError"__id*'
+ (
+
+%16javax.swing.JLabel"n
+W
+NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/ErreklamatuGUI.java å(
+implicit returnB
+gui.ErreklamatuGUI

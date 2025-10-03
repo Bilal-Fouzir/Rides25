@@ -1,0 +1,105 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-10 17:32:12 #1 store] 
+Database 'C:\Users\MARKEL\git\Rides24\src\main\resources\rides.temp' is opened by 1348@-Unknown-
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-10 17:33:28 #1 store] 
+Database 'C:\Users\MARKEL\git\Rides24\src\main\resources\rides.temp' has been recovered (tr. 1-2)
+
+[2025-02-10 17:33:28 #2 store] 
+Database 'C:\Users\MARKEL\git\Rides24\src\main\resources\rides.temp' is opened by 16600@-Unknown-
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-10 17:34:22 #1 store] 
+Database 'C:\Users\MARKEL\git\Rides24\src\main\resources\rides.temp' is opened by 12388@-Unknown-
+
+[2025-02-10 17:34:22 #2 type.registry] 
+New type domain.Driver
+
+[2025-02-10 17:34:22 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-10 17:34:23 #4 type.registry] 
+New type domain.Ride
+
+[2025-02-10 17:34:23 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-10 17:34:23 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-10 17:34:23 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-10 18:27:44 #1 store] 
+Database 'C:\Users\MARKEL\git\Rides24\src\main\resources\rides.temp' has been recovered (tr. 1-7)
+
+[2025-02-10 18:27:44 #2 store] 
+Database 'C:\Users\MARKEL\git\Rides24\src\main\resources\rides.temp' is opened by 10524@-Unknown-
+
+[2025-02-10 18:27:45 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-10 18:27:45 #4 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-10 18:29:02 #1 store] 
+Database 'C:\Users\MARKEL\git\Rides24\src\main\resources\rides.temp' is opened by 16288@-Unknown-
+
+[2025-02-10 18:29:02 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-10 18:29:02 #3 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-10 18:29:29 #1 store] 
+Database 'C:\Users\MARKEL\git\Rides24\src\main\resources\rides.temp' is opened by 6704@-Unknown-
+
+[2025-02-10 18:29:29 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-10 18:29:29 #3 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-10 18:44:51 #1 store] 
+Database 'C:\Users\MARKEL\git\Rides24\src\main\resources\rides.temp' is opened by 8128@-Unknown-
+
+[2025-02-10 18:44:52 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-10 18:44:52 #3 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-10 18:49:13 #1 store] 
+Database 'C:\Users\MARKEL\git\Rides24\src\main\resources\rides.temp' is opened by 11260@-Unknown-
+
+[2025-02-10 18:49:13 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-10 18:49:13 #3 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-10 18:49:19 #1 store] 
+Database 'C:\Users\MARKEL\git\Rides24\src\main\resources\rides.temp' is opened by 13572@-Unknown-
+
+[2025-02-10 18:49:20 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-10 18:49:20 #3 type] 
+Type domain.Ride is not enhanced.
+

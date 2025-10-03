@@ -1,0 +1,48 @@
+
+AtestOperations.TestDataAccess#removeTraveler(Ljava/lang/String;)Zc
+YC:/Users/fouzi/eclipse-workspace/Rides25/src/test/java/testOperations/TestDataAccess.javaL L("3*!
+2P P("
+S S(
+""*
+3M M(Q
+O
+M M(
+%0java.io.PrintStream"__id*"
+
+__unknown_file (
+""àÝ
+M M(5
+
+%1void"0java.io.PrintStream#println(Ljava/lang/String;)V*7
+
+__unknown_file (
+
+%0java.io.PrintStream*=
+
+__unknown_file (!
+>> TestDataAccess: removeRide2println(Ljava/lang/String;)L
+J
+N N(6
+tdomain.Traveler"__id*"
+
+__unknown_file (
+""r
+p
+O O(
+%2boolean"	__compare*
+O O(	
+!=*"
+O O(
+
+tdomain.Traveler*
+O	 O(
+""*
+2
+1*!
+1U
+ U("
+U U(
+"":-
+L L(3!
+travelerEmailjava.lang.StringB!
+testOperations.TestDataAccessHX

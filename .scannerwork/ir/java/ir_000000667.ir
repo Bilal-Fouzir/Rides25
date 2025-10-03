@@ -1,0 +1,31 @@
+
+": "java.lang.String
+" --> "java.lang.String
+	"Ã¢â€šÂ¬"java.lang.String
+" | "java.lang.String!this
+ô ô("domain.Ride"¥@
+>
+
+õ	 õ("#get-field# rideNumber:Bjava.lang.Integer9
+7
+
+õ õ("#get-field# from:Bjava.lang.String7
+5
+
+õ& õ(("#get-field# to:Bjava.lang.String7
+5
+
+õ/ õ(3"#get-field# date:Bjava.util.Date/
+-
+
+õ> õ(E	"#get-field# nPlaces:Bint/
+-
+
+õN õ(S
+"#get-field# price:Bfloat@
+>
+
+õ	 õ(Y"	#binop +#2+:	
+Bjava.lang.String
+
+õ õ(Z*GC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/domain/Ride.java

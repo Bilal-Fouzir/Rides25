@@ -1,0 +1,168 @@
+
+#gui.TakeMoneyGUI#%field_initializer
+__unknown_file ("1*ò"
+1 (âÜ
+V
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java" ((
+%0javax.swing.JLabel"javax.swing.JLabelÕ
+ 
+V
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java (h
+%1".javax.swing.JLabel#<init>(Ljava/lang/String;)V*&
+ (
+
+%0javax.swing.JLabel*
+ (
+""Æ
+´
+V
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java (i#
+gui.TakeMoneyGUI"
+jLabelTitle"__id*&
+ (
+
+%0javax.swing.JLabelãà
+V
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java# (*
+%2javax.swing.JButton"javax.swing.JButtonœ
+Ã
+V
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java (i
+%3"/javax.swing.JButton#<init>(Ljava/lang/String;)V*'
+ (
+
+%2javax.swing.JButton*
+ (
+""Ø
+¨
+V
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java (j#
+gui.TakeMoneyGUI"
+jButtonTake"__id*'
+ (
+
+%2javax.swing.JButtonãà
+V
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java# (*
+%4javax.swing.JButton"javax.swing.JButtonœ
+Ã
+V
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java (\
+%5"/javax.swing.JButton#<init>(Ljava/lang/String;)V*'
+ (
+
+%4javax.swing.JButton*
+ (
+""Ø
+¨
+V
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java (]#
+gui.TakeMoneyGUI"
+jButtonBack"__id*'
+ (
+
+%4javax.swing.JButtonâÜ
+V
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java %  (+
+%6javax.swing.JLabel"javax.swing.JLabelÕ
+ 
+V
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java !  (k
+%7".javax.swing.JLabel#<init>(Ljava/lang/String;)V*&
+ (
+
+%6javax.swing.JLabel*
+ (
+""Æ
+´
+V
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java   (l#
+gui.TakeMoneyGUI"
+jLabelMoney"__id*&
+ (
+
+%6javax.swing.JLabelâÜ
+V
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java!( !(.
+%8javax.swing.JLabel"javax.swing.JLabelÕ
+ 
+V
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java!$ !(t
+%9".javax.swing.JLabel#<init>(Ljava/lang/String;)V*&
+ (
+
+%8javax.swing.JLabel*
+ (
+""¥
+±
+V
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java! !(u)
+gui.TakeMoneyGUI"
+jLabelInsertMoney"__id*&
+ (
+
+%8javax.swing.JLabeläá
+V
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java") "(/
+%10javax.swing.JLabel"javax.swing.JLabelœ
+Ã
+V
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java"% "(>
+%11".javax.swing.JLabel#<init>(Ljava/lang/String;)V*'
+ (
+
+%10javax.swing.JLabel*
+ (
+""∞
+≠
+V
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java" "(?$
+gui.TakeMoneyGUI"
+jLabelMoney2"__id*'
+ (
+
+%10javax.swing.JLabeläá
+V
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java#3 #(9
+%12javax.swing.JLabel"javax.swing.JLabel–
+Õ
+W
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java#/ #(Ñ
+%13".javax.swing.JLabel#<init>(Ljava/lang/String;)V*'
+ (
+
+%12javax.swing.JLabel*
+ (
+""ª
+∏
+W
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java# #(Ö.
+gui.TakeMoneyGUI"
+jLabelWrongFormatError"__id*'
+ (
+
+%12javax.swing.JLabeläá
+V
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java$1 $(7
+%14javax.swing.JLabel"javax.swing.JLabel–
+Õ
+W
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java$- $(Ä
+%15".javax.swing.JLabel#<init>(Ljava/lang/String;)V*'
+ (
+
+%14javax.swing.JLabel*
+ (
+""π
+∂
+W
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java$ $(Å,
+gui.TakeMoneyGUI"
+jLabelLessMoneyError"__id*'
+ (
+
+%14javax.swing.JLabel"l
+U
+LC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/gui/TakeMoneyGUI.java î(
+implicit returnB
+gui.TakeMoneyGUI

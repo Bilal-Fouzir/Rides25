@@ -1,0 +1,19 @@
+
+""java.lang.String&this ("domain.Transactionmoney ( "double 
+totalMoney" (3"double'concept5 (C"java.lang.String"Ô'
+%
+ ("#set-field# money:,
+*
+ ("#set-field# totalMoney:^
+\
+   ("1
+java.time.LocalDatenow()Ljava/time/LocalDate;*2nowBjava.time.LocalDate:
+8
+ 	  (	date"	#binop +#2+:Bjava.lang.String&
+$
+   (
+"#set-field# date:	)
+'
+! !("#set-field# concept:
+
+" "(*NC:/Users/fouzi/eclipse-workspace/Rides25/src/main/java/domain/Transaction.java
