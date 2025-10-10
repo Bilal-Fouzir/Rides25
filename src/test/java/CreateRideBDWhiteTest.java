@@ -15,7 +15,7 @@ import domain.Ride;
 import exceptions.RideAlreadyExistException;
 import exceptions.RideMustBeLaterThanTodayException;
 import testOperations.TestDataAccess;
-import domain.Driver;
+import domain.*;
 
 public class CreateRideBDWhiteTest {
 
@@ -58,7 +58,8 @@ public class CreateRideBDWhiteTest {
 			
 			//invoke System Under Test (sut)  
 			sut.open();
-		    sut.createRide(rideFrom, rideTo, rideDate, 0, 0, driverEmail, "kaka");
+			CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, 0, 0);
+		    sut.createRide(p, driverEmail, "kaka");
 			sut.close();
 			
 			fail();
@@ -117,7 +118,8 @@ public class CreateRideBDWhiteTest {
 			
 			//invoke System Under Test (sut)  
 			sut.open();
-			Ride ride=sut.createRide(rideFrom, rideTo, rideDate, 0, 0, driverEmail, "1234BCD");
+			CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, 0, 0);
+			Ride ride=sut.createRide(p , driverEmail, "1234BCD");
 			sut.close();
 			
 			//verify the results
@@ -186,7 +188,8 @@ public class CreateRideBDWhiteTest {
                 
                 //invoke System Under Test (sut)  
                 sut.open();
-                Ride ride=sut.createRide(rideFrom, rideTo, rideDate, 0, 0, driverEmail, "kaka");
+                CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, 0, 0);
+                Ride ride=sut.createRide(p, driverEmail, "kaka");
                 System.out.println("ride "+ride);
 
                 //verify the results
@@ -241,7 +244,8 @@ public class CreateRideBDWhiteTest {
 			
 			//invoke System Under Test (sut)  
 			sut.open();
-			Ride ride=sut.createRide(rideFrom, rideTo, rideDate, 0, 0, driverEmail, "1234BCD");
+			CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, 0, 0);
+			Ride ride=sut.createRide(p, driverEmail, "1234BCD");
 			sut.close();
 			System.out.println(ride);
 			//verify the results

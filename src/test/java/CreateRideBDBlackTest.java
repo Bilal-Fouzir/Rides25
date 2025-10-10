@@ -11,6 +11,7 @@ import java.util.Date;
 import org.junit.Test;
 
 import dataAccess.DataAccess;
+import domain.CreateRideParametroak;
 import domain.Driver;
 import domain.Ride;
 import exceptions.RideAlreadyExistException;
@@ -53,7 +54,8 @@ public class CreateRideBDBlackTest {
 		try {
 			//invoke System Under Test (sut)  
 			sut.open();
-			 ride=sut.createRide(rideFrom, rideTo, rideDate, 1,(float) 2.5, driverEmail, "kaka");
+			 CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, 1, (float) 2.5);
+			 ride=sut.createRide(p, driverEmail, "kaka");
 			sut.close();			
 			
 			//verify the results
@@ -119,8 +121,8 @@ public class CreateRideBDBlackTest {
 		try {
 			//invoke System Under Test (sut)  
 			sut.open();
-			
-			 ride=sut.createRide(rideFrom, rideTo, rideDate, 1,(float) 2.5, driverEmail, "kaka");
+			 CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, 1, (float) 2.5);
+			 ride=sut.createRide(p, driverEmail, "kaka");
 			sut.close();			
 			System.out.println(ride);
 			//verify the results
@@ -184,8 +186,8 @@ public class CreateRideBDBlackTest {
 		try {
 			//invoke System Under Test (sut)  
 			sut.open();
-			
-			 ride=sut.createRide(rideFrom, rideTo, rideDate, 1,(float) 2.5, driverEmail, "kaka");
+			 CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, 1, (float) 2.5);
+			 ride=sut.createRide(p, driverEmail, "kaka");
 			sut.close();			
 			
 			//verify the results
@@ -242,8 +244,8 @@ public class CreateRideBDBlackTest {
 		try {
 			//invoke System Under Test (sut)  
 			sut.open();
-			
-			 ride=sut.createRide(rideFrom, rideTo, rideDate, 1,(float) 2.5, driverEmail, "kaka");
+			 CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, 1, (float) 2.5);
+			 ride=sut.createRide(p, driverEmail, "kaka");
 			sut.close();			
 			
 			//verify the results
@@ -312,7 +314,8 @@ public class CreateRideBDBlackTest {
 			
 			//invoke System Under Test (sut)  
 			sut.open();
-			Ride ride=sut.createRide(rideFrom, rideTo, rideDate, 0, 0, driverEmail, "1234BCD");
+			CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, 0, 0);
+			Ride ride=sut.createRide(p, driverEmail, "1234BCD");
 			sut.close();
 			System.out.println(ride);
 			//verify the results
@@ -383,8 +386,8 @@ public class CreateRideBDBlackTest {
 		try {
 			//invoke System Under Test (sut)  
 			sut.open();
-			
-			ride=sut.createRide(rideFrom, rideTo, rideDate,(Integer) null ,(float) 2.5, driverEmail, "kaka");
+			CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, (Integer) null, (float) 2.5);
+			ride=sut.createRide(p, driverEmail, "kaka");
 			sut.close();			
 			
 			//verify the results
@@ -448,8 +451,8 @@ public class CreateRideBDBlackTest {
 		try {
 			//invoke System Under Test (sut)  
 			sut.open();
-			
-			 ride=sut.createRide(rideFrom, rideTo, rideDate, -1,(float) 2.5, driverEmail, "kaka");
+			 CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, 1, (float) 2.5);
+			 ride=sut.createRide(p, driverEmail, "kaka");
 			sut.close();			
 			
 			//verify the results
@@ -513,8 +516,8 @@ public class CreateRideBDBlackTest {
 		try {
 			//invoke System Under Test (sut)  
 			sut.open();
-			
-			 ride=sut.createRide(rideFrom, rideTo, rideDate, 1, (Float) null, driverEmail, "kaka");
+			 CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, 1, (Float) null);
+			 ride=sut.createRide(p, driverEmail, "kaka");
 			sut.close();			
 			
 			//verify the results
@@ -578,8 +581,8 @@ public class CreateRideBDBlackTest {
 		try {
 			//invoke System Under Test (sut)  
 			sut.open();
-			
-			 ride=sut.createRide(rideFrom, rideTo, rideDate, 1,(float) -2.5, driverEmail, "kaka");
+			 CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, 1, (float) -2.5);
+			 ride=sut.createRide(p, driverEmail, "kaka");
 			sut.close();			
 			
 			//verify the results
@@ -644,7 +647,8 @@ public class CreateRideBDBlackTest {
                 
                 //invoke System Under Test (sut)  
                 sut.open();
-                Ride ride=sut.createRide(rideFrom, rideTo, rideDate, 0, 0, driverEmail, "kaka");
+                CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, 0, 0);
+                Ride ride=sut.createRide(p, driverEmail, "kaka");
                 System.out.println("ride "+ride);
 
                 //verify the results

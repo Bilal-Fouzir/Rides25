@@ -110,11 +110,10 @@ public class Driver implements Serializable {
 	 * @param betMinimum of that question
 	 * @return Bet
 	 */
-	public Ride addRide(String from, String to, Date date, int nPlaces, float price, Kotxea kotxea)  {
-        Ride ride=new Ride(from,to,date,nPlaces,price, this, kotxea);
-        rides.add(ride);
-        return ride;
-	}
+	public void addRide(Ride ride)  {
+	       rides.add(ride);
+		}
+
 	
 	public Kotxea addCar(String marka, String modeloa, String matrikula) {
 		Kotxea kotxea = new Kotxea(marka, modeloa, matrikula);

@@ -185,16 +185,7 @@ public class BalErrRideGUI extends JFrame {
 					String unekoa = (String) balErrList.getSelectedValue();
 					String[] zatiak = unekoa.split("\\|");
 					if (zatiak[0].equals(ResourceBundle.getBundle(etik).getString("Err") + " ")) {
-						facade.rejectClaim(zatiak[1]);
-						ride= facade.getRide(ride.getRideNumber());
-						rideInfo.clear();
-						for (Balorazioa b : ride.getBalorazioList()) {
-							rideInfo.addElement(b.toString());
-						}
-						for (Erreklamazioa err : ride.getErreklamazioList()) {
-							if (!err.isEginda()) rideInfo.addElement(err.toString());
-						}
-						jLabelRejected.setVisible(true);
+						balErEdukiaBete(facade, d, zatiak);
 					} else {
 						jLabelNotAClaim.setVisible(true);
 					}
@@ -206,5 +197,19 @@ public class BalErrRideGUI extends JFrame {
 		});
 
 		
-	}	 
+	}	
+	public void balErEdukiaBete(BLFacade facade,Driver d, String[] zatiak) {
+		facade.acceptClaim(zatiak[1], driver);
+		driver = facade.badagoDriver(d.getEmail());
+		ride= facade.getRide(ride.getRideNumber());
+		rideInfo.clear();
+		for (Balorazioa b : ride.getBalorazioList()) {
+			rideInfo.addElement(b.toString());
+		}
+		for (Erreklamazioa err : ride.getErreklamazioList()) {
+			if (!err.isEginda()) rideInfo.addElement(err.toString());
+		}
+		jLabelAccepted.setVisible(true);
+	}
+
 }
