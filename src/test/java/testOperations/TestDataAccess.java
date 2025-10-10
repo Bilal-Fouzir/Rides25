@@ -138,7 +138,8 @@ public class TestDataAccess {
 					if (driver==null) {
 						driver=new Driver(email,pass);
 					}
-				    driver.addRide(from, to, date, nPlaces, price, new Kotxea("a", "b", "c"));
+					Ride ride= new Ride(from, to, date, 0, 0, driver, new Kotxea("a", "b", "c"));
+				    driver.addRide(ride);
 				    db.persist(driver);
 					db.getTransaction().commit();
 					return driver;

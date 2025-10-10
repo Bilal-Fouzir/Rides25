@@ -157,11 +157,7 @@ public class SignInGUI extends JFrame {
 		
 		getContentPane().add(rdbtnNewRadioButton_3);
 				
-		jLabelEmailError.setVisible(false);
-		jLabelEmailExistsError.setVisible(false);
-		jLabelPassError.setVisible(false);
-		jLabelRolError.setVisible(false);
-		jLabelRegistered.setVisible(false);
+		erroreakGarbitu();
 
 		paintAgain();
 	
@@ -198,11 +194,7 @@ public class SignInGUI extends JFrame {
 		jButtonSignIn.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				boolean error = false;
-				jLabelEmailError.setVisible(false);
-				jLabelEmailExistsError.setVisible(false);
-				jLabelPassError.setVisible(false);
-				jLabelRolError.setVisible(false);
-				jLabelRegistered.setVisible(false);
+				erroreakGarbitu();
 				String emailInput = jTextPaneEmail.getText();
 				String passInput = new String (jPasswordField.getPassword());
 				if (emailInput.length() == 0){  
@@ -271,5 +263,12 @@ public class SignInGUI extends JFrame {
 		jLabelRegistered.setText(ResourceBundle.getBundle(etik).getString("SignInGUI.Registered"));
 
 		this.setTitle(ResourceBundle.getBundle(etik).getString("SignInGUI.MainTitle"));
+	}
+	public void erroreakGarbitu() {
+		jLabelEmailError.setVisible(false);
+		jLabelEmailExistsError.setVisible(false);
+		jLabelPassError.setVisible(false);
+		jLabelRolError.setVisible(false);
+		jLabelRegistered.setVisible(false);
 	}
 }

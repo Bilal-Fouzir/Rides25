@@ -36,7 +36,6 @@ public class DataAccess {
 			String fileName = c.getDbFilename();
 			// emf = Persistence.createEntityManagerFactory("objectdb:"+fileName);
 			// db = emf.createEntityManager();
-
 			File fileToDelete = new File(fileName);
 			if (fileToDelete.delete()) {
 				File fileToDeleteTemp = new File(fileName + "$");
@@ -50,10 +49,7 @@ public class DataAccess {
 		open();
 		if (c.isDatabaseInitialized())
 			initializeDB();
-
-		System.out.println("DataAccess created => isDatabaseLocal: " + c.isDatabaseLocal() + " isDatabaseInitialized: "
-				+ c.isDatabaseInitialized());
-
+		System.out.println("DataAccess created => isDatabaseLocal: " + c.isDatabaseLocal() + " isDatabaseInitialized: "+ c.isDatabaseInitialized());
 		close();
 
 	}
@@ -149,42 +145,35 @@ public class DataAccess {
 	 * @return the created ride, or null, or an exception
 	 * @throws Exception 
 	 */
-	public Ride createRide(String from, String to, Date date, int nPlaces, float price, String driverEmail,String datuak) throws Exception {
-		System.out.println(">> DataAccess: createRide=> from= " + from + " to= " + to + " driver=" + driverEmail
-				+ " date " + date + "datuak=" + datuak);
+	public Ride createRide(CreateRideParametroak kl, String driverEmail,String datuak) throws Exception {
 		try {
 			db.getTransaction().begin();
-			if (new Date().compareTo(date) > 0) {
-				throw new RideMustBeLaterThanTodayException(
-						ResourceBundle.getBundle("Etiquetas").getString("CreateRideGUI.ErrorRideMustBeLaterThanToday"));
-			}
-			
-			if(driverEmail==null) {
-				throw new Exception();
-			}
-			Driver driver = db.find(Driver.class, driverEmail);
-			if(driver==null) {
-				throw new Exception();
-			}
-			if (driver.doesRideExists(from, to, date)) {
-				db.getTransaction().commit();
-				throw new RideAlreadyExistException(
-						ResourceBundle.getBundle("Etiquetas").getString("DataAccess.RideAlreadyExist"));
-			}
+			Driver driver = this.createRideKonprobaketak(kl.getFrom(), kl.getTo(), kl.getDate(), driverEmail);
 			String[] zatiak = datuak.split(" \\|");
 			Kotxea kotxea = db.find(Kotxea.class, zatiak[0]);
-			Ride ride = driver.addRide(from, to, date, nPlaces, price, kotxea);
-			// next instruction can be obviated
+			Ride ride = new Ride(kl.getFrom(), kl.getTo(), kl.getDate(), kl.getnPlaces(), kl.getPrice(),driver, kotxea);
+			driver.addRide(ride);
 			db.persist(driver);
 			db.getTransaction().commit();
-
 			return ride;
 		} catch (NullPointerException e) {
-			// TODO Auto-generated catch block
 			db.getTransaction().commit();
 			return null;
 		}
 
+	}
+	public Driver createRideKonprobaketak(String from, String to, Date date,String driverEmail) throws Exception{
+		if (new Date().compareTo(date) > 0) {
+			throw new RideMustBeLaterThanTodayException(ResourceBundle.getBundle("Etiquetas").getString("CreateRideGUI.ErrorRideMustBeLaterThanToday"));
+		}
+		if(driverEmail==null) {throw new Exception();}
+		Driver driver = db.find(Driver.class, driverEmail);
+		if(driver==null) {throw new Exception();}
+		if (driver.doesRideExists(from, to, date)) {
+			db.getTransaction().commit();
+			throw new RideAlreadyExistException(ResourceBundle.getBundle("Etiquetas").getString("DataAccess.RideAlreadyExist"));
+		}
+		return driver;
 	}
 
 	/**
@@ -629,38 +618,18 @@ public class DataAccess {
 	 */ 
 
 	public void deleteAccountT(Traveler t) throws Exception {
-
-		Transaction tran = null;
 		db.getTransaction().begin();
 		try {
-			for (Transaction tr : t.getTransactions()) {
-				tran = db.find(Transaction.class, tr.getId());
-				if (tran != null)
-					db.remove(tran);
-			}
-			TypedQuery<Alerta> query2 = db.createQuery("DELETE FROM Alerta e WHERE e.email = :s", Alerta.class);
-			query2.setParameter("s", t.getEmail());
-			query2.executeUpdate();
-			TypedQuery<Balorazioa> query3 = db.createQuery("DELETE FROM Balorazioa f WHERE f.email = :s",
-					Balorazioa.class);
-			query3.setParameter("s", t.getEmail());
-			query3.executeUpdate();
-			TypedQuery<Erreklamazioa> query4 = db.createQuery("DELETE FROM Erreklamazioa q WHERE q.email = :s",
-					Erreklamazioa.class);
-			query4.setParameter("s", t.getEmail());
-			query4.executeUpdate();
-			TypedQuery<Erreserba> query = db.createQuery(
-					"DELETE FROM Erreserba r WHERE r.onartua = FALSE AND r.traveler.email = :s", Erreserba.class);
-			query.setParameter("s", t.getEmail());
-			query.executeUpdate();
+			deleteTran(t,null);
+			kontsultakT(t);
 			db.remove(db.find(Traveler.class, t.getEmail()));
 			db.getTransaction().commit();
 		} catch (Exception e) {
-			
 			db.getTransaction().rollback();
 			throw new Exception(); 
 		}
 	} 
+	
 	/**
 	 * This method deletes a Driver account 
 	 * 
@@ -668,48 +637,71 @@ public class DataAccess {
 	 * @throws Exception if the driver is null or the driver does not exist in the DB
 	 */
 	public void deleteAccountD(Driver d) throws Exception {
-		Transaction tran = null;
-		Kotxea kotxe = null;
 		db.getTransaction().begin();
 		try {
-			for (Transaction tr : d.getTransactions()) {
-				tran = db.find(Transaction.class, tr.getId());
-				if (tran != null)
-					db.remove(tran);
-			}
-			for (Kotxea k : d.getCars()) {
-				kotxe = db.find(Kotxea.class, k.getMatrikula());
-				if (kotxe != null)
-					db.remove(kotxe);
-			}
-			TypedQuery<Alerta> query5 = db.createQuery("DELETE FROM Alerta p WHERE p.ride.driver.email = :s",
-					Alerta.class);
-			query5.setParameter("s", d.getEmail());
-			query5.executeUpdate();
-			TypedQuery<Balorazioa> query3 = db
-					.createQuery("DELETE FROM Balorazioa f WHERE f.erreserba.ride.driver.email = :s", Balorazioa.class);
-			query3.setParameter("s", d.getEmail());
-			query3.executeUpdate();
-			TypedQuery<Erreklamazioa> query4 = db.createQuery(
-					"DELETE FROM Erreklamazioa q WHERE q.erreserba.ride.driver.email = :s", Erreklamazioa.class);
-			query4.setParameter("s", d.getEmail());
-			query4.executeUpdate();
-			TypedQuery<Erreserba> query = db.createQuery("DELETE FROM Erreserba r WHERE r.ride.driver.email = :s",
-					Erreserba.class);
-			query.setParameter("s", d.getEmail());
-			query.executeUpdate();
-			TypedQuery<Ride> query2 = db.createQuery("DELETE FROM Ride w WHERE w.driver.email = :s", Ride.class);
-			query2.setParameter("s", d.getEmail());
-			query2.executeUpdate();
+			deleteTran(null,d);
+			deleteKotx(d);
+			kontsultakD(d);
 			db.remove(db.find(Driver.class, d.getEmail()));
 			db.getTransaction().commit();
 		} catch (Exception e) {
-			
 			db.getTransaction().rollback();
 			throw new Exception();
 		}
 	}
-
+	public void kontsultakD(Driver d) {
+		TypedQuery<Alerta> query5 = db.createQuery("DELETE FROM Alerta p WHERE p.ride.driver.email = :s",Alerta.class);
+		query5.setParameter("s", d.getEmail());
+		query5.executeUpdate();
+		TypedQuery<Balorazioa> query3 = db.createQuery("DELETE FROM Balorazioa f WHERE f.erreserba.ride.driver.email = :s", Balorazioa.class);
+		query3.setParameter("s", d.getEmail());
+		query3.executeUpdate();
+		TypedQuery<Erreklamazioa> query4 = db.createQuery("DELETE FROM Erreklamazioa q WHERE q.erreserba.ride.driver.email = :s", Erreklamazioa.class);
+		query4.setParameter("s", d.getEmail());
+		query4.executeUpdate();
+		TypedQuery<Erreserba> query = db.createQuery("DELETE FROM Erreserba r WHERE r.ride.driver.email = :s",Erreserba.class);
+		query.setParameter("s", d.getEmail());
+		query.executeUpdate();
+		TypedQuery<Ride> query2 = db.createQuery("DELETE FROM Ride w WHERE w.driver.email = :s", Ride.class);
+		query2.setParameter("s", d.getEmail());
+		query2.executeUpdate();
+	}
+	public void kontsultakT(Traveler t) {
+		TypedQuery<Alerta> query2 = db.createQuery("DELETE FROM Alerta e WHERE e.email = :s", Alerta.class);
+		query2.setParameter("s", t.getEmail());
+		query2.executeUpdate();
+		TypedQuery<Balorazioa> query3 = db.createQuery("DELETE FROM Balorazioa f WHERE f.email = :s",Balorazioa.class);
+		query3.setParameter("s", t.getEmail());
+		query3.executeUpdate();
+		TypedQuery<Erreklamazioa> query4 = db.createQuery("DELETE FROM Erreklamazioa q WHERE q.email = :s",Erreklamazioa.class);
+		query4.setParameter("s", t.getEmail());
+		query4.executeUpdate();
+		TypedQuery<Erreserba> query = db.createQuery("DELETE FROM Erreserba r WHERE r.onartua = FALSE AND r.traveler.email = :s", Erreserba.class);
+		query.setParameter("s", t.getEmail());
+		query.executeUpdate();
+	}
+	public void deleteTran(Traveler t, Driver d) {
+		List<Transaction> transac= new LinkedList<>();
+		Transaction tran;
+		if (t!=null) {
+			transac=t.getTransactions();
+		}else {
+			transac=d.getTransactions();
+		}
+		for (Transaction tr : transac) {
+			tran = db.find(Transaction.class, tr.getId());
+			if (tran != null)
+				db.remove(tran);
+		}
+	}
+	public void deleteKotx(Driver d) {
+		Kotxea ko;
+		for (Kotxea k : d.getCars()) {
+			ko = db.find(Kotxea.class, k.getMatrikula());
+			if (ko != null)
+				db.remove(ko);
+		}
+	}
 	public void open() {
 
 		String fileName = c.getDbFilename();

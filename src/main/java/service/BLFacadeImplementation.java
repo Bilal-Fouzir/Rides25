@@ -8,15 +8,7 @@ import javax.jws.WebService;
 
 import configuration.ConfigXML;
 import dataAccess.DataAccess;
-import domain.Ride;
-import domain.Transaction;
-import domain.Traveler;
-import domain.Alerta;
-import domain.Balorazioa;
-import domain.Driver;
-import domain.Erreklamazioa;
-import domain.Erreserba;
-import domain.Kotxea;
+import domain.*;
 import exceptions.RideMustBeLaterThanTodayException;
 import exceptions.RideAlreadyExistException;
 
@@ -80,7 +72,7 @@ public class BLFacadeImplementation  implements BLFacade {
    public Ride createRide( String from, String to, Date date, int nPlaces, float price, String driverEmail, String datuak ) throws Exception{
 	   
 		dbManager.open();
-		Ride ride=dbManager.createRide(from, to, date, nPlaces, price, driverEmail, datuak);		
+		Ride ride=dbManager.createRide(new CreateRideParametroak(from, to , date, nPlaces, price), driverEmail, datuak);		
 		dbManager.close();
 		return ride;
    }

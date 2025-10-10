@@ -102,7 +102,8 @@ public class CreateRideMockBlackTest {
 	      
 	        //invoke System Under Test (sut)  
 			sut.open();
-			 ride=sut.createRide(rideFrom, rideTo, rideDate, 1,(float) 1.0, driverEmail, "kaka");
+			CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate,1 ,(float) 1.0);
+			 ride=sut.createRide(p, driverEmail, "kaka");
 			sut.close();	
 			
 			//verify call numbers and capture parameters
@@ -157,7 +158,8 @@ public class CreateRideMockBlackTest {
 			
 	        //invoke System Under Test (sut)  
 			sut.open();
-			 ride=sut.createRide(rideFrom, rideTo, rideDate, 1,(float) 1.0, driverEmail, "kaka");
+			CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, 1, (float) 1.0);
+			 ride=sut.createRide(p, driverEmail, "kaka");
 			sut.close();
 			//verify call numbers and capture parameters
 	        Mockito.verify(db,Mockito.times(1)).persist(driverCaptor.capture());
@@ -210,7 +212,8 @@ public class CreateRideMockBlackTest {
 	       
 	        //invoke System Under Test (sut)  
 			sut.open();
-			 ride=sut.createRide(rideFrom, rideTo, rideDate, 1,(float) 1.0, driverEmail, "kaka");
+			 CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, 1, (float) 1.0);
+			 ride=sut.createRide(p, driverEmail, "kaka");
 			sut.close();		
 			//verify call numbers and capture parameters
 	        Mockito.verify(db,Mockito.times(1)).persist(driverCaptor.capture());
@@ -258,7 +261,8 @@ public class CreateRideMockBlackTest {
 			
 	        //invoke System Under Test (sut)  
 			sut.open();
-			 ride=sut.createRide(rideFrom, rideTo, rideDate, 1,(float) 1.0, driverEmail, "kaka");
+			 CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, 1,(float) 1.0);
+			 ride=sut.createRide(p, driverEmail, "kaka");
 			sut.close();
 			//verify call numbers and capture parameters
 	        Mockito.verify(db,Mockito.times(1)).persist(driverCaptor.capture());
@@ -311,7 +315,8 @@ public class CreateRideMockBlackTest {
 					
 			//invoke System Under Test (sut)  
 			sut.open();
-			Ride ride=sut.createRide(rideFrom, rideTo, rideDate, 1,(float) 1.0, driverEmail, "kaka");
+			CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, 1,(float) 1.0);
+			Ride ride=sut.createRide(p, driverEmail, "kaka");
 			sut.close();
 			//verify the results
 			assertNotNull(ride);
@@ -379,7 +384,8 @@ public class CreateRideMockBlackTest {
 	      
 	        //invoke System Under Test (sut)  
 			sut.open();
-			 ride=sut.createRide(rideFrom, rideTo, rideDate, (Integer)null, 0, driverEmail, "kaka");
+			 CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, (Integer)null, 0);
+			 ride=sut.createRide(p, driverEmail, "kaka");
 			sut.close();	
 			
 			//verify call numbers and capture parameters
@@ -433,7 +439,8 @@ public class CreateRideMockBlackTest {
 	      
 	        //invoke System Under Test (sut)  
 			sut.open();
-			 ride=sut.createRide(rideFrom, rideTo, rideDate, -1,(float) 1.0, driverEmail, "kaka");
+		   	 CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, -1, (float) 1.0);
+			 ride=sut.createRide(p, driverEmail, "kaka");
 			sut.close();	
 			
 			//verify call numbers and capture parameters
@@ -488,7 +495,8 @@ public class CreateRideMockBlackTest {
 	      
 	        //invoke System Under Test (sut)  
 			sut.open();
-			 ride=sut.createRide(rideFrom, rideTo, rideDate, 1, (Float)null, driverEmail, "kaka");
+			 CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, 1, (Float)null);
+			 ride=sut.createRide(p, driverEmail, "kaka");
 			sut.close();	
 			
 			//verify call numbers and capture parameters
@@ -542,7 +550,8 @@ public class CreateRideMockBlackTest {
 	      
 	        //invoke System Under Test (sut)  
 			sut.open();
-			 ride=sut.createRide(rideFrom, rideTo, rideDate, 1,(float) -1.0, driverEmail, "kaka");
+			 CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, 1, (float) -1.0);
+			 ride=sut.createRide(p, driverEmail, "kaka");
 			sut.close();	
 			
 			//verify call numbers and capture parameters
@@ -593,7 +602,8 @@ public class CreateRideMockBlackTest {
 	      
 	        //invoke System Under Test (sut)  
 			sut.open();
-			 ride=sut.createRide(rideFrom, rideTo, rideDate, 1,(float) 1.0, driverEmail, "kaka");
+			 CreateRideParametroak p= new CreateRideParametroak(rideFrom, rideTo , rideDate, 1, (float) 1.0);
+			 ride=sut.createRide(p, driverEmail, "kaka");
 			sut.close();	
 			
 			//verify call numbers and capture parameters

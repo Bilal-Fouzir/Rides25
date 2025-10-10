@@ -1,0 +1,182 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-10 18:29:45 #1 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' has been recovered (tr. 420-471)
+
+[2025-10-10 18:29:45 #2 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is opened by 30132@fouzirbilal
+
+[2025-10-10 18:29:46 #3 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-10-10 18:29:46 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-10 18:29:46 #5 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-10-10 18:29:46 #6 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-10-10 18:29:46 #7 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-10-10 18:29:46 #8 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-10 18:29:46 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-10-10 18:29:46 #10 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-10 18:29:46 #11 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-10 18:29:47 #12 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is closed by 30132@fouzirbilal
+
+[2025-10-10 18:29:47 #13 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is opened by 30132@fouzirbilal
+
+[2025-10-10 18:29:47 #14 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is closed by 30132@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-10 18:29:59 #1 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is opened by 15884@fouzirbilal
+
+[2025-10-10 18:29:59 #2 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-10-10 18:29:59 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-10 18:29:59 #4 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-10-10 18:29:59 #5 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-10-10 18:29:59 #6 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-10-10 18:29:59 #7 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-10 18:29:59 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-10-10 18:29:59 #9 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-10 18:29:59 #10 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-10 18:30:00 #11 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is closed by 15884@fouzirbilal
+
+[2025-10-10 18:30:00 #12 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is opened by 15884@fouzirbilal
+
+[2025-10-10 18:30:00 #13 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is closed by 15884@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-10 18:32:59 #1 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is opened by 23880@fouzirbilal
+
+[2025-10-10 18:32:59 #2 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-10-10 18:32:59 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-10 18:32:59 #4 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-10-10 18:32:59 #5 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-10-10 18:32:59 #6 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-10-10 18:32:59 #7 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-10 18:32:59 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-10-10 18:32:59 #9 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-10 18:32:59 #10 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-10 18:32:59 #11 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is closed by 23880@fouzirbilal
+
+[2025-10-10 18:32:59 #12 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is opened by 23880@fouzirbilal
+
+[2025-10-10 18:32:59 #13 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is closed by 23880@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-10 18:37:11 #1 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is opened by 12660@fouzirbilal
+
+[2025-10-10 18:37:11 #2 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is closed by 12660@fouzirbilal
+
+[2025-10-10 18:37:11 #3 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is opened by 12660@fouzirbilal
+
+[2025-10-10 18:37:11 #4 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is closed by 12660@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-10 18:40:05 #1 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is opened by 19692@fouzirbilal
+
+[2025-10-10 18:40:06 #2 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is closed by 19692@fouzirbilal
+
+[2025-10-10 18:40:06 #3 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is opened by 19692@fouzirbilal
+
+[2025-10-10 18:40:06 #4 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is closed by 19692@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-10 18:42:07 #1 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is opened by 9644@fouzirbilal
+
+[2025-10-10 18:42:07 #2 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is closed by 9644@fouzirbilal
+
+[2025-10-10 18:42:07 #3 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is opened by 9644@fouzirbilal
+
+[2025-10-10 18:42:07 #4 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is closed by 9644@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-10 18:44:30 #1 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is opened by 26876@fouzirbilal
+
+[2025-10-10 18:44:30 #2 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is closed by 26876@fouzirbilal
+
+[2025-10-10 18:44:30 #3 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is opened by 26876@fouzirbilal
+
+[2025-10-10 18:44:30 #4 store] 
+Database 'C:\Users\fouzi\eclipse-workspace\Rides25\src\main\resources\rides.temp' is closed by 26876@fouzirbilal
+

@@ -270,38 +270,14 @@ public class CreateErreserbaGUI extends JFrame {
 		jButtonErreserbatu.setBounds(new Rectangle(194, 417, 130, 30));
 		jButtonErreserbatu.setBounds(372, 417, 130, 30);
 		getContentPane().add(jButtonErreserbatu);
-		jLabelPlWrongFormatError.setHorizontalAlignment(SwingConstants.CENTER);
 		
-		jLabelPlWrongFormatError.setVisible(false);
-		jLabelPlWrongFormatError.setFont(new Font(let, Font.BOLD | Font.ITALIC, 10));
-		jLabelPlWrongFormatError.setForeground(new Color(255, 0, 0));
-		jLabelPlWrongFormatError.setBounds(new Rectangle(6, 159, 61, 20));
-		jLabelPlWrongFormatError.setBounds(172, 235, 346, 20);
-		getContentPane().add(jLabelPlWrongFormatError);
-		jLabelNotEnoughPlError.setHorizontalAlignment(SwingConstants.CENTER);
+	
 		
-		jLabelNotEnoughPlError.setVisible(false);
-		jLabelNotEnoughPlError.setForeground(Color.RED);
-		jLabelNotEnoughPlError.setFont(new Font(let, Font.BOLD | Font.ITALIC, 10));
-		jLabelNotEnoughPlError.setBounds(new Rectangle(6, 159, 61, 20));
-		jLabelNotEnoughPlError.setBounds(172, 235, 346, 20);
-		getContentPane().add(jLabelNotEnoughPlError);
-		jLabelNotEnoughMoneyError.setHorizontalAlignment(SwingConstants.CENTER);
 		
-		jLabelNotEnoughMoneyError.setVisible(false);
-		jLabelNotEnoughMoneyError.setForeground(Color.RED);
-		jLabelNotEnoughMoneyError.setFont(new Font(let, Font.BOLD | Font.ITALIC, 10));
-		jLabelNotEnoughMoneyError.setBounds(new Rectangle(6, 159, 61, 20));
-		jLabelNotEnoughMoneyError.setBounds(172, 235, 346, 20);
-		getContentPane().add(jLabelNotEnoughMoneyError);
-		jLabelRideNotSelectedError.setHorizontalAlignment(SwingConstants.CENTER);
-		
-		jLabelRideNotSelectedError.setVisible(false);
-		jLabelRideNotSelectedError.setForeground(Color.RED);
-		jLabelRideNotSelectedError.setFont(new Font(let, Font.BOLD | Font.ITALIC, 10));
-		jLabelRideNotSelectedError.setBounds(new Rectangle(6, 159, 61, 20));
-		jLabelRideNotSelectedError.setBounds(172, 235, 346, 20);
-		getContentPane().add(jLabelRideNotSelectedError);
+		erroreEzarpenak(jLabelPlWrongFormatError);
+		erroreEzarpenak(jLabelNotEnoughPlError);
+		erroreEzarpenak(jLabelNotEnoughMoneyError);
+		erroreEzarpenak(jLabelRideNotSelectedError);
 		jLabelReserveOK.setHorizontalAlignment(SwingConstants.CENTER);
 		
 		jLabelReserveOK.setVisible(false);
@@ -369,4 +345,14 @@ public class CreateErreserbaGUI extends JFrame {
 	private void jButton2_actionPerformed(ActionEvent e) {
 		this.setVisible(false);
 	}
+	 public void erroreEzarpenak(JLabel error) {
+		 	error.setVisible(false);
+			error.setForeground(Color.RED);
+			error.setFont(new Font(let, Font.BOLD | Font.ITALIC, 10));
+			error.setBounds(new Rectangle(6, 159, 61, 20));
+			error.setBounds(172, 235, 346, 20);
+			getContentPane().add(error);
+			error.setHorizontalAlignment(SwingConstants.CENTER);
+		 
+	 }
 }
