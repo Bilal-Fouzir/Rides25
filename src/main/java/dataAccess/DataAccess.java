@@ -145,6 +145,7 @@ public class DataAccess {
 	 * @return the created ride, or null, or an exception
 	 * @throws Exception 
 	 */
+	 //pkenwfocwqnaclxmwodsncmxoklsmlxmdslamc
 	public Ride createRide(CreateRideParametroak kl, String driverEmail,String datuak) throws Exception {
 		try {
 			db.getTransaction().begin();
