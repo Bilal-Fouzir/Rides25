@@ -23,7 +23,7 @@ import domain.*;
 import exceptions.*;
 
 /**
- * It implements the data access to the objectDb database
+ * It implements the data access to the objectDb database  db
  */
 public class DataAccess {
 	private EntityManager db;
