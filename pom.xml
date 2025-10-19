@@ -50,8 +50,8 @@
 
 		<sonar.organization>bilalfouzir</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>bilalfouzir_rides25</sonar.projectKey>
-		<sonar.login>e46b2dc806a3d3504a7d52e187c839e4f4978a3f</sonar.login>
+		<sonar.projectKey>bilalfouzir_rides25eBUM</sonar.projectKey>
+		<sonar.login>bb0a3ab750f09840af949b2a2d01d653f34c143b</sonar.login>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
