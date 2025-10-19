@@ -42,8 +42,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # needed for PR info
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-        run: |
-          mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar \
+        run:	mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent \
+		     org.jacoco:jacoco-maven-plugin:report install sonar:sonar \
             -Dsonar.projectKey=bilalfouzir_rides25 \
             -Dsonar.organization=bilalfouzir \
             -Dsonar.host.url=https://sonarcloud.io
