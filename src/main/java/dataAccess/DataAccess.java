@@ -30,7 +30,7 @@ public class DataAccess {
 	private EntityManagerFactory emf;
  
 	ConfigXML c = ConfigXML.getInstance();
-
+//beeb
 	public DataAccess() {
 		if (c.isDatabaseInitialized()) {
 			String fileName = c.getDbFilename();
