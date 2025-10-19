@@ -220,7 +220,7 @@ public class DataAccess {
 		db.remove(ride);
 		db.getTransaction().commit();
 	}
-
+//bebe
 	public void bukatuRide(String s) {
 		float money = 0;
 		int id = Integer.parseInt(s);
