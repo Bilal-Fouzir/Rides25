@@ -179,7 +179,7 @@ public class DataAccess {
 
 	/**
 	 * This method retrieves the rides from two locations on a given date
-	 * 
+	 * this method is crazy
 	 * @param from the origin location of a ride
 	 * @param to   the destination location of a ride
 	 * @param date the date of the ride
