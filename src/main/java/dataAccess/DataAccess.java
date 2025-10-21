@@ -637,6 +637,7 @@ public class DataAccess {
 	 * @param d         The driver that we want to remove
 	 * @throws Exception if the driver is null or the driver does not exist in the DB
 	 */
+	//
 	public void deleteAccountD(Driver d) throws Exception {
 		db.getTransaction().begin();
 		try {
