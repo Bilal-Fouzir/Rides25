@@ -1,0 +1,356 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-21 11:15:28 #1 store] 
+Database 'C:\Users\ehu\git\Rides25\src\main\resources\rides.temp' is opened by 22956@U032838
+
+[2025-10-21 11:15:28 #2 store] 
+Database 'C:\Users\ehu\git\Rides25\src\main\resources\rides.temp' is closed by 22956@U032838
+
+[2025-10-21 11:15:28 #3 store] 
+Database 'C:\Users\ehu\git\Rides25\src\main\resources\rides.temp' is opened by 22956@U032838
+
+[2025-10-21 11:15:29 #4 type.registry] 
+New type domain.Driver
+
+[2025-10-21 11:15:29 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-21 11:15:29 #6 type.registry] 
+New type domain.Ride
+
+[2025-10-21 11:15:29 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-10-21 11:15:29 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-10-21 11:15:29 #9 type.registry] 
+New type domain.Transaction
+
+[2025-10-21 11:15:29 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-10-21 11:15:29 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-21 11:15:29 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-10-21 11:15:29 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-10-21 11:15:29 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-10-21 11:15:29 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-10-21 11:15:29 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-10-21 11:15:29 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-21 11:15:29 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-10-21 11:15:29 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-10-21 11:15:29 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-10-21 11:15:29 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-10-21 11:15:29 #22 type.registry] 
+New type domain.Traveler
+
+[2025-10-21 11:15:29 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-21 11:15:29 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-10-21 11:15:29 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-10-21 11:15:29 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-10-21 11:15:29 #27 type.registry] 
+New type domain.Alerta
+
+[2025-10-21 11:15:29 #28 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-10-21 11:15:30 #29 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-21 11:21:15 #1 store] 
+Database 'C:\Users\ehu\git\Rides25\src\main\resources\rides.temp' is opened by 17236@U032838
+
+[2025-10-21 11:21:15 #2 store] 
+Database 'C:\Users\ehu\git\Rides25\src\main\resources\rides.temp' is closed by 17236@U032838
+
+[2025-10-21 11:21:15 #3 store] 
+Database 'C:\Users\ehu\git\Rides25\src\main\resources\rides.temp' is opened by 17236@U032838
+
+[2025-10-21 11:21:16 #4 type.registry] 
+New type domain.Driver
+
+[2025-10-21 11:21:16 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-21 11:21:16 #6 type.registry] 
+New type domain.Ride
+
+[2025-10-21 11:21:16 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-10-21 11:21:16 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-10-21 11:21:16 #9 type.registry] 
+New type domain.Transaction
+
+[2025-10-21 11:21:16 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-10-21 11:21:16 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-21 11:21:16 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-10-21 11:21:16 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-10-21 11:21:16 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-10-21 11:21:16 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-10-21 11:21:16 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-10-21 11:21:16 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-21 11:21:16 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-10-21 11:21:16 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-10-21 11:21:16 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-10-21 11:21:16 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-10-21 11:21:16 #22 type.registry] 
+New type domain.Traveler
+
+[2025-10-21 11:21:16 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-21 11:21:16 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-10-21 11:21:16 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-10-21 11:21:16 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-10-21 11:21:16 #27 type.registry] 
+New type domain.Alerta
+
+[2025-10-21 11:21:16 #28 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-10-21 11:21:17 #29 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-21 11:24:14 #1 store] 
+Database 'C:\Users\ehu\git\Rides25\src\main\resources\rides.temp' is opened by 14948@U032838
+
+[2025-10-21 11:24:15 #2 store] 
+Database 'C:\Users\ehu\git\Rides25\src\main\resources\rides.temp' is closed by 14948@U032838
+
+[2025-10-21 11:24:15 #3 store] 
+Database 'C:\Users\ehu\git\Rides25\src\main\resources\rides.temp' is opened by 14948@U032838
+
+[2025-10-21 11:24:15 #4 type.registry] 
+New type domain.Driver
+
+[2025-10-21 11:24:15 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-21 11:24:15 #6 type.registry] 
+New type domain.Ride
+
+[2025-10-21 11:24:15 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-10-21 11:24:15 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-10-21 11:24:15 #9 type.registry] 
+New type domain.Transaction
+
+[2025-10-21 11:24:15 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-10-21 11:24:15 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-21 11:24:15 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-10-21 11:24:15 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-10-21 11:24:15 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-10-21 11:24:15 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-10-21 11:24:15 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-10-21 11:24:15 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-21 11:24:15 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-10-21 11:24:15 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-10-21 11:24:15 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-10-21 11:24:15 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-10-21 11:24:15 #22 type.registry] 
+New type domain.Traveler
+
+[2025-10-21 11:24:15 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-21 11:24:15 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-10-21 11:24:15 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-10-21 11:24:15 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-10-21 11:24:15 #27 type.registry] 
+New type domain.Alerta
+
+[2025-10-21 11:24:15 #28 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-10-21 11:24:16 #29 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-21 11:29:19 #1 store] 
+Database 'C:\Users\ehu\git\Rides25\src\main\resources\rides.temp' is opened by 19212@U032838
+
+[2025-10-21 11:29:19 #2 store] 
+Database 'C:\Users\ehu\git\Rides25\src\main\resources\rides.temp' is closed by 19212@U032838
+
+[2025-10-21 11:29:19 #3 store] 
+Database 'C:\Users\ehu\git\Rides25\src\main\resources\rides.temp' is opened by 19212@U032838
+
+[2025-10-21 11:29:19 #4 type.registry] 
+New type domain.Driver
+
+[2025-10-21 11:29:19 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-21 11:29:19 #6 type.registry] 
+New type domain.Ride
+
+[2025-10-21 11:29:19 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-10-21 11:29:19 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-10-21 11:29:19 #9 type.registry] 
+New type domain.Transaction
+
+[2025-10-21 11:29:19 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-10-21 11:29:19 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-21 11:29:19 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-10-21 11:29:19 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-10-21 11:29:19 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-10-21 11:29:19 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-10-21 11:29:19 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-10-21 11:29:19 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-21 11:29:19 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-10-21 11:29:19 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-10-21 11:29:19 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-10-21 11:29:19 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-10-21 11:29:19 #22 type.registry] 
+New type domain.Traveler
+
+[2025-10-21 11:29:19 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-21 11:29:20 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-10-21 11:29:20 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-10-21 11:29:20 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-10-21 11:29:20 #27 type.registry] 
+New type domain.Alerta
+
+[2025-10-21 11:29:20 #28 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-10-21 11:29:21 #29 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
