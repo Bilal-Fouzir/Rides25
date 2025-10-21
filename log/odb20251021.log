@@ -354,3 +354,92 @@ Type domain.Alerta is not enhanced.
 [2025-10-21 11:29:21 #29 type.registry] 
 New type java.util.Vector<domain.Erreserba>
 
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-21 11:37:02 #1 store] 
+Database 'C:\Users\ehu\git\Rides25\src\main\resources\rides.temp' is opened by 23344@U032838
+
+[2025-10-21 11:37:02 #2 store] 
+Database 'C:\Users\ehu\git\Rides25\src\main\resources\rides.temp' is closed by 23344@U032838
+
+[2025-10-21 11:37:02 #3 store] 
+Database 'C:\Users\ehu\git\Rides25\src\main\resources\rides.temp' is opened by 23344@U032838
+
+[2025-10-21 11:37:02 #4 type.registry] 
+New type domain.Driver
+
+[2025-10-21 11:37:02 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-21 11:37:02 #6 type.registry] 
+New type domain.Ride
+
+[2025-10-21 11:37:02 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-10-21 11:37:02 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-10-21 11:37:02 #9 type.registry] 
+New type domain.Transaction
+
+[2025-10-21 11:37:02 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-10-21 11:37:02 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-21 11:37:02 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-10-21 11:37:02 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-10-21 11:37:02 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-10-21 11:37:02 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-10-21 11:37:02 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-10-21 11:37:02 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-21 11:37:02 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-10-21 11:37:02 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-10-21 11:37:02 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-10-21 11:37:02 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-10-21 11:37:02 #22 type.registry] 
+New type domain.Traveler
+
+[2025-10-21 11:37:02 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-21 11:37:02 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-10-21 11:37:02 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-10-21 11:37:02 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-10-21 11:37:03 #27 type.registry] 
+New type domain.Alerta
+
+[2025-10-21 11:37:03 #28 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-10-21 11:37:04 #29 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
