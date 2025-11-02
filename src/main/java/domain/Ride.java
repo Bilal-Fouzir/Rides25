@@ -56,6 +56,7 @@ public class Ride implements Serializable {
 		this.kotxea = kotxea;
 		bukatuta=false;
 	}
+	
 
 	
 

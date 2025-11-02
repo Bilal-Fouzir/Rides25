@@ -1,5 +1,7 @@
 package service;
+import java.io.Serializable;
 import java.util.Date;
+import java.util.Iterator;
 import java.util.List;
 import java.util.ResourceBundle;
 
@@ -16,7 +18,8 @@ import exceptions.RideAlreadyExistException;
  * It implements the business logic as a web service.
  */
 @WebService(endpointInterface = "service.BLFacade")
-public class BLFacadeImplementation  implements BLFacade {
+public class BLFacadeImplementation  implements BLFacade, Serializable {
+	private static final long serialVersionUID = 1L;
 	private DataAccess dbManager;
 
 	public BLFacadeImplementation()  {		
@@ -51,6 +54,11 @@ public class BLFacadeImplementation  implements BLFacade {
 		
 		return departLocations;
     	
+    }
+    @WebMethod public ExtendedIterator getDepartingCitiesIterator() {
+    
+		
+        return new ExtendedIteratorKlasea(this.getDepartCities());
     }
     /**
      * {@inheritDoc}

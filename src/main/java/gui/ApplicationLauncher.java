@@ -5,6 +5,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.net.URL;
 import java.util.Locale;
+import java.util.Scanner;
 
 import javax.swing.JFrame;
 import javax.swing.UIManager;
@@ -15,8 +16,7 @@ import configuration.ConfigXML;
 import dataAccess.DataAccess;
 import domain.Driver;
 import gui.LoginGUI;
-import service.BLFacade;
-import service.BLFacadeImplementation;
+import service.*;
 
 public class ApplicationLauncher implements Serializable{ 
 	/*	
@@ -42,18 +42,23 @@ public class ApplicationLauncher implements Serializable{
 		//Driver driver = new Driver("a", "b");
 		//MainGUI a=new MainGUI(driver);
 		//a.setVisible(true);
-	    
+		Scanner scanner = new Scanner(System.in);
 
+		BLFacade appFacadeInterface;
 		try {
 			
-			BLFacade appFacadeInterface;
+			
 			UIManager.setLookAndFeel("javax.swing.plaf.metal.MetalLookAndFeel");
 			
 			if (c.isBusinessLogicLocal()) {
-			
-				DataAccess da= new DataAccess();
-				appFacadeInterface=new BLFacadeImplementation(da);
+				System.out.print("Aukeratu zenbaki bat:  ");
+				System.out.print("1 XML");
+				System.out.print("Beste edozer(null)");
+				int zenbaki = scanner.nextInt();
 
+				
+				appFacadeInterface= FactoryBLFacade.createBLFacade(zenbaki);
+				
 				
 			}
 			
@@ -71,6 +76,7 @@ public class ApplicationLauncher implements Serializable{
 		        Service service = Service.create(url, qname);
 
 		        appFacadeInterface = service.getPort(BLFacade.class);
+		        
 			} 
 			
 			//ApplicationLauncher.setBussinessLogic(appFacadeInterface);

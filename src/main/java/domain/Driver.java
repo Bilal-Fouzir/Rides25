@@ -113,7 +113,9 @@ public class Driver implements Serializable {
 	public void addRide(Ride ride)  {
 	       rides.add(ride);
 		}
-
+	public List<Ride> getRides(){
+		return rides;
+	}
 	
 	public Kotxea addCar(String marka, String modeloa, String matrikula) {
 		Kotxea kotxea = new Kotxea(marka, modeloa, matrikula);

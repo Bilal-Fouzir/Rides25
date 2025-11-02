@@ -1,0 +1,3064 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 11:10:44 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 35192@fouzirbilal
+
+[2025-11-02 11:10:44 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 35192@fouzirbilal
+
+[2025-11-02 11:10:51 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 35192@fouzirbilal
+
+[2025-11-02 11:10:51 #4 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 35192@fouzirbilal
+
+[2025-11-02 11:10:51 #5 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 35192@fouzirbilal
+
+[2025-11-02 11:10:51 #6 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 35192@fouzirbilal
+
+[2025-11-02 11:10:52 #7 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 35192@fouzirbilal
+
+[2025-11-02 11:10:52 #8 type.registry] 
+New type domain.Alerta
+
+[2025-11-02 11:10:52 #9 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-11-02 11:10:52 #10 type.registry] 
+New type domain.Ride
+
+[2025-11-02 11:10:52 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 11:10:52 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 11:10:52 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 11:10:52 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 11:10:52 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 11:10:52 #16 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 11:10:52 #17 type.registry] 
+New type domain.Driver
+
+[2025-11-02 11:10:52 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 11:10:52 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 11:10:52 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 11:10:52 #21 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 11:10:52 #22 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 11:10:52 #23 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 11:10:52 #24 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 11:10:52 #25 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 11:10:52 #26 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 11:10:52 #27 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 11:10:52 #28 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 11:10:52 #29 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 11:10:52 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 35192@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 11:11:36 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 32592@fouzirbilal
+
+[2025-11-02 11:11:37 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 32592@fouzirbilal
+
+[2025-11-02 11:11:40 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 32592@fouzirbilal
+
+[2025-11-02 11:11:40 #4 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 32592@fouzirbilal
+
+[2025-11-02 11:11:40 #5 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 32592@fouzirbilal
+
+[2025-11-02 11:11:40 #6 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 32592@fouzirbilal
+
+[2025-11-02 11:11:40 #7 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 32592@fouzirbilal
+
+[2025-11-02 11:11:40 #8 type.registry] 
+New type domain.Alerta
+
+[2025-11-02 11:11:40 #9 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-11-02 11:11:40 #10 type.registry] 
+New type domain.Ride
+
+[2025-11-02 11:11:40 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 11:11:40 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 11:11:40 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 11:11:40 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 11:11:40 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 11:11:40 #16 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 11:11:40 #17 type.registry] 
+New type domain.Driver
+
+[2025-11-02 11:11:40 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 11:11:40 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 11:11:40 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 11:11:40 #21 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 11:11:40 #22 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 11:11:40 #23 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 11:11:40 #24 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 11:11:40 #25 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 11:11:40 #26 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 11:11:40 #27 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 11:11:40 #28 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 11:11:40 #29 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 11:11:40 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 32592@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 11:13:27 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 15056@fouzirbilal
+
+[2025-11-02 11:13:27 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 15056@fouzirbilal
+
+[2025-11-02 11:13:29 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 15056@fouzirbilal
+
+[2025-11-02 11:13:29 #4 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 15056@fouzirbilal
+
+[2025-11-02 11:13:30 #5 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 15056@fouzirbilal
+
+[2025-11-02 11:13:30 #6 type.registry] 
+New type domain.Alerta
+
+[2025-11-02 11:13:30 #7 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-11-02 11:13:30 #8 type.registry] 
+New type domain.Ride
+
+[2025-11-02 11:13:30 #9 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 11:13:30 #10 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 11:13:30 #11 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 11:13:30 #12 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 11:13:30 #13 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 11:13:30 #14 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 11:13:30 #15 type.registry] 
+New type domain.Driver
+
+[2025-11-02 11:13:30 #16 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 11:13:30 #17 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 11:13:30 #18 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 11:13:30 #19 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 11:13:30 #20 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 11:13:30 #21 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 11:13:30 #22 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 11:13:30 #23 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 11:13:30 #24 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 11:13:30 #25 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 11:13:30 #26 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 11:13:30 #27 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 11:13:30 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 15056@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 11:14:35 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 24840@fouzirbilal
+
+[2025-11-02 11:14:36 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 24840@fouzirbilal
+
+[2025-11-02 11:14:36 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 24840@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 11:19:09 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 5548@fouzirbilal
+
+[2025-11-02 11:19:10 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 5548@fouzirbilal
+
+[2025-11-02 11:19:13 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 5548@fouzirbilal
+
+[2025-11-02 11:19:13 #4 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 5548@fouzirbilal
+
+[2025-11-02 11:19:13 #5 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 5548@fouzirbilal
+
+[2025-11-02 11:19:13 #6 type.registry] 
+New type domain.Alerta
+
+[2025-11-02 11:19:13 #7 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-11-02 11:19:13 #8 type.registry] 
+New type domain.Ride
+
+[2025-11-02 11:19:13 #9 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 11:19:13 #10 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 11:19:13 #11 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 11:19:13 #12 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 11:19:13 #13 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 11:19:13 #14 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 11:19:13 #15 type.registry] 
+New type domain.Driver
+
+[2025-11-02 11:19:13 #16 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 11:19:13 #17 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 11:19:13 #18 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 11:19:13 #19 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 11:19:13 #20 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 11:19:13 #21 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 11:19:13 #22 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 11:19:13 #23 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 11:19:13 #24 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 11:19:13 #25 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 11:19:13 #26 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 11:19:13 #27 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 11:19:13 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 5548@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 11:19:55 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 12192@fouzirbilal
+
+[2025-11-02 11:19:56 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 12192@fouzirbilal
+
+[2025-11-02 11:19:56 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 12192@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 11:24:47 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 13804@fouzirbilal
+
+[2025-11-02 11:24:47 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 13804@fouzirbilal
+
+[2025-11-02 11:24:47 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 13804@fouzirbilal
+
+[2025-11-02 11:24:48 #4 type.registry] 
+New type domain.Alerta
+
+[2025-11-02 11:24:48 #5 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-11-02 11:24:48 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 11:24:48 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 11:24:48 #8 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 11:24:48 #9 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 11:24:48 #10 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 11:24:48 #11 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 11:24:48 #12 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 11:24:48 #13 type.registry] 
+New type domain.Driver
+
+[2025-11-02 11:24:48 #14 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 11:24:48 #15 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 11:24:48 #16 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 11:24:48 #17 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 11:24:48 #18 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 11:24:48 #19 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 11:24:48 #20 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 11:24:48 #21 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 11:24:48 #22 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 11:24:48 #23 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 11:24:48 #24 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 11:24:48 #25 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 11:24:48 #26 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 13804@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 11:26:07 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 428@fouzirbilal
+
+[2025-11-02 11:26:08 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 428@fouzirbilal
+
+[2025-11-02 11:26:08 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 428@fouzirbilal
+
+[2025-11-02 11:26:08 #4 type.registry] 
+New type domain.Alerta
+
+[2025-11-02 11:26:08 #5 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-11-02 11:26:08 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 11:26:08 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 11:26:08 #8 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 11:26:08 #9 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 11:26:08 #10 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 11:26:08 #11 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 11:26:08 #12 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 11:26:08 #13 type.registry] 
+New type domain.Driver
+
+[2025-11-02 11:26:08 #14 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 11:26:08 #15 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 11:26:08 #16 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 11:26:08 #17 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 11:26:08 #18 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 11:26:08 #19 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 11:26:08 #20 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 11:26:08 #21 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 11:26:08 #22 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 11:26:08 #23 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 11:26:08 #24 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 11:26:08 #25 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 11:26:08 #26 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 428@fouzirbilal
+
+[2025-11-02 11:26:09 #27 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 428@fouzirbilal
+
+[2025-11-02 11:26:09 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 428@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 11:32:45 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 24404@fouzirbilal
+
+[2025-11-02 11:32:45 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 24404@fouzirbilal
+
+[2025-11-02 11:32:45 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 24404@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 11:34:08 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 21760@fouzirbilal
+
+[2025-11-02 11:34:08 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 21760@fouzirbilal
+
+[2025-11-02 11:34:08 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 21760@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 11:36:50 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 23188@fouzirbilal
+
+[2025-11-02 11:36:50 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 23188@fouzirbilal
+
+[2025-11-02 11:36:50 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 23188@fouzirbilal
+
+[2025-11-02 11:36:50 #4 type.registry] 
+New type domain.Alerta
+
+[2025-11-02 11:36:50 #5 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-11-02 11:36:50 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 11:36:50 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 11:36:50 #8 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 11:36:50 #9 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 11:36:50 #10 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 11:36:50 #11 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 11:36:50 #12 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 11:36:50 #13 type.registry] 
+New type domain.Driver
+
+[2025-11-02 11:36:50 #14 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 11:36:50 #15 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 11:36:50 #16 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 11:36:50 #17 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 11:36:50 #18 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 11:36:50 #19 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 11:36:50 #20 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 11:36:50 #21 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 11:36:50 #22 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 11:36:50 #23 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 11:36:50 #24 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 11:36:50 #25 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 11:36:50 #26 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 23188@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 11:37:50 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 11352@fouzirbilal
+
+[2025-11-02 11:37:50 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 11352@fouzirbilal
+
+[2025-11-02 11:37:50 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 11352@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 11:39:55 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 31676@fouzirbilal
+
+[2025-11-02 11:39:55 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 31676@fouzirbilal
+
+[2025-11-02 11:39:55 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 31676@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 11:43:18 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 22180@fouzirbilal
+
+[2025-11-02 11:43:18 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 22180@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 11:44:17 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 32416@fouzirbilal
+
+[2025-11-02 11:44:18 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 32416@fouzirbilal
+
+[2025-11-02 11:44:18 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 32416@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 11:44:39 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 19180@fouzirbilal
+
+[2025-11-02 11:44:39 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 19180@fouzirbilal
+
+[2025-11-02 11:44:40 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 19180@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 11:49:33 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 28412@fouzirbilal
+
+[2025-11-02 11:49:34 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 28412@fouzirbilal
+
+[2025-11-02 11:49:35 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 28412@fouzirbilal
+
+[2025-11-02 11:49:35 #4 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 28412@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 11:53:25 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 30108@fouzirbilal
+
+[2025-11-02 11:53:26 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 30108@fouzirbilal
+
+[2025-11-02 11:53:26 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 30108@fouzirbilal
+
+[2025-11-02 11:53:27 #4 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 30108@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 12:13:03 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 34916@fouzirbilal
+
+[2025-11-02 12:13:04 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 34916@fouzirbilal
+
+[2025-11-02 12:13:04 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 34916@fouzirbilal
+
+[2025-11-02 12:13:04 #4 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 34916@fouzirbilal
+
+[2025-11-02 12:13:05 #5 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 34916@fouzirbilal
+
+[2025-11-02 12:13:05 #6 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 34916@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 12:15:12 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 8180@fouzirbilal
+
+[2025-11-02 12:15:13 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 8180@fouzirbilal
+
+[2025-11-02 12:15:13 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 8180@fouzirbilal
+
+[2025-11-02 12:15:13 #4 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 8180@fouzirbilal
+
+[2025-11-02 12:15:13 #5 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 8180@fouzirbilal
+
+[2025-11-02 12:15:14 #6 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 8180@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 12:16:07 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 23252@fouzirbilal
+
+[2025-11-02 12:16:07 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 23252@fouzirbilal
+
+[2025-11-02 12:16:08 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 23252@fouzirbilal
+
+[2025-11-02 12:16:08 #4 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 23252@fouzirbilal
+
+[2025-11-02 12:16:08 #5 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 23252@fouzirbilal
+
+[2025-11-02 12:16:08 #6 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 23252@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 12:16:48 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 14352@fouzirbilal
+
+[2025-11-02 12:16:48 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 14352@fouzirbilal
+
+[2025-11-02 12:16:48 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 14352@fouzirbilal
+
+[2025-11-02 12:16:48 #4 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 14352@fouzirbilal
+
+[2025-11-02 12:16:48 #5 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 14352@fouzirbilal
+
+[2025-11-02 12:16:48 #6 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 14352@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 12:25:58 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 26628@fouzirbilal
+
+[2025-11-02 12:25:59 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 26628@fouzirbilal
+
+[2025-11-02 12:25:59 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 26628@fouzirbilal
+
+[2025-11-02 12:25:59 #4 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 26628@fouzirbilal
+
+[2025-11-02 12:25:59 #5 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 26628@fouzirbilal
+
+[2025-11-02 12:25:59 #6 type.registry] 
+New type domain.Alerta
+
+[2025-11-02 12:25:59 #7 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-11-02 12:25:59 #8 type.registry] 
+New type domain.Ride
+
+[2025-11-02 12:25:59 #9 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 12:25:59 #10 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 12:25:59 #11 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 12:25:59 #12 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 12:25:59 #13 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 12:25:59 #14 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 12:25:59 #15 type.registry] 
+New type domain.Driver
+
+[2025-11-02 12:25:59 #16 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 12:25:59 #17 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 12:25:59 #18 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 12:25:59 #19 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 12:25:59 #20 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 12:25:59 #21 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 12:25:59 #22 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 12:25:59 #23 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 12:25:59 #24 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 12:25:59 #25 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 12:25:59 #26 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 12:25:59 #27 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 12:25:59 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 26628@fouzirbilal
+
+[2025-11-02 12:26:01 #29 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 26628@fouzirbilal
+
+[2025-11-02 12:26:01 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 26628@fouzirbilal
+
+[2025-11-02 12:26:11 #31 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 26628@fouzirbilal
+
+[2025-11-02 12:26:12 #32 type.registry] 
+New type domain.Driver
+
+[2025-11-02 12:26:12 #33 type.registry] 
+New type domain.Ride
+
+[2025-11-02 12:26:12 #34 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 12:26:12 #35 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 12:26:12 #36 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 12:26:12 #37 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 12:26:12 #38 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 12:26:12 #39 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 12:26:12 #40 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 12:26:12 #41 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 12:26:12 #42 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 12:26:12 #43 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 12:26:12 #44 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 26628@fouzirbilal
+
+[2025-11-02 12:26:12 #45 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 26628@fouzirbilal
+
+[2025-11-02 12:26:12 #46 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-11-02 12:26:12 #47 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-11-02 12:26:12 #48 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-11-02 12:26:12 #49 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 26628@fouzirbilal
+
+[2025-11-02 12:26:14 #50 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 26628@fouzirbilal
+
+[2025-11-02 12:26:14 #51 type.registry] 
+New type domain.Alerta
+
+[2025-11-02 12:26:14 #52 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 26628@fouzirbilal
+
+[2025-11-02 12:26:22 #53 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 26628@fouzirbilal
+
+[2025-11-02 12:26:22 #54 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 26628@fouzirbilal
+
+[2025-11-02 12:26:22 #55 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 26628@fouzirbilal
+
+[2025-11-02 12:26:22 #56 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 26628@fouzirbilal
+
+[2025-11-02 12:26:27 #57 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 26628@fouzirbilal
+
+[2025-11-02 12:26:27 #58 type.registry] 
+New type domain.Driver
+
+[2025-11-02 12:26:27 #59 type.registry] 
+New type domain.Ride
+
+[2025-11-02 12:26:27 #60 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 12:26:27 #61 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 12:26:27 #62 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 12:26:27 #63 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 12:26:27 #64 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 12:26:27 #65 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 12:26:27 #66 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 12:26:27 #67 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 12:26:27 #68 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 12:26:27 #69 type.registry] 
+New type domain.Traveler
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 12:40:07 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 5160@fouzirbilal
+
+[2025-11-02 12:40:08 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 5160@fouzirbilal
+
+[2025-11-02 12:40:08 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 5160@fouzirbilal
+
+[2025-11-02 12:40:08 #4 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 5160@fouzirbilal
+
+[2025-11-02 12:40:08 #5 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 5160@fouzirbilal
+
+[2025-11-02 12:40:08 #6 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 5160@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 12:42:22 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 35060@fouzirbilal
+
+[2025-11-02 12:42:22 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 35060@fouzirbilal
+
+[2025-11-02 12:42:22 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 35060@fouzirbilal
+
+[2025-11-02 12:42:22 #4 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 35060@fouzirbilal
+
+[2025-11-02 12:42:22 #5 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 35060@fouzirbilal
+
+[2025-11-02 12:42:22 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 12:42:22 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 12:42:22 #8 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 12:42:22 #9 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 12:42:22 #10 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 12:42:22 #11 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 12:42:22 #12 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 12:42:22 #13 type.registry] 
+New type domain.Driver
+
+[2025-11-02 12:42:22 #14 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 12:42:22 #15 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 12:42:22 #16 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 12:42:22 #17 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 12:42:22 #18 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 12:42:22 #19 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 12:42:22 #20 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 12:42:22 #21 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 12:42:22 #22 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 12:42:22 #23 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 12:42:22 #24 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 12:42:22 #25 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 12:42:22 #26 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-11-02 12:42:22 #27 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 35060@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 12:45:50 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 5256@fouzirbilal
+
+[2025-11-02 12:45:50 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 5256@fouzirbilal
+
+[2025-11-02 12:45:50 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 5256@fouzirbilal
+
+[2025-11-02 12:45:51 #4 type.registry] 
+New type domain.Alerta
+
+[2025-11-02 12:45:51 #5 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-11-02 12:45:51 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 12:45:51 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 12:45:51 #8 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 12:45:51 #9 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 12:45:51 #10 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 12:45:51 #11 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 12:45:51 #12 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 12:45:51 #13 type.registry] 
+New type domain.Driver
+
+[2025-11-02 12:45:51 #14 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 12:45:51 #15 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 12:45:51 #16 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 12:45:51 #17 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 12:45:51 #18 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 12:45:51 #19 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 12:45:51 #20 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 12:45:51 #21 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 12:45:51 #22 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 12:45:51 #23 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 12:45:51 #24 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 12:45:51 #25 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 12:45:51 #26 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 5256@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 12:49:06 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 36764@fouzirbilal
+
+[2025-11-02 12:49:06 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 36764@fouzirbilal
+
+[2025-11-02 12:49:06 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 36764@fouzirbilal
+
+[2025-11-02 12:49:06 #4 type.registry] 
+New type domain.Driver
+
+[2025-11-02 12:49:06 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 12:49:06 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 12:49:06 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 12:49:06 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 12:49:06 #9 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 12:49:06 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 12:49:06 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 12:49:06 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 12:49:06 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 12:49:06 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 12:49:06 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 12:49:06 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 12:49:06 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 12:49:06 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 12:49:06 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 12:49:06 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 12:49:06 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 12:49:06 #22 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 12:49:06 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 12:49:06 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-11-02 12:49:06 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-11-02 12:49:06 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-11-02 12:49:06 #27 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 36764@fouzirbilal
+
+[2025-11-02 12:49:06 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 36764@fouzirbilal
+
+[2025-11-02 12:49:06 #29 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 36764@fouzirbilal
+
+[2025-11-02 12:49:06 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 36764@fouzirbilal
+
+[2025-11-02 12:49:07 #31 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 36764@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 12:50:36 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 22404@fouzirbilal
+
+[2025-11-02 12:50:37 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 22404@fouzirbilal
+
+[2025-11-02 12:50:37 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 22404@fouzirbilal
+
+[2025-11-02 12:50:37 #4 type.registry] 
+New type domain.Driver
+
+[2025-11-02 12:50:37 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 12:50:37 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 12:50:37 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 12:50:37 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 12:50:37 #9 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 12:50:37 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 12:50:37 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 12:50:37 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 12:50:37 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 12:50:37 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 12:50:37 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 12:50:37 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 12:50:37 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 12:50:37 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 12:50:37 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 12:50:37 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 12:50:37 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 12:50:37 #22 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 12:50:37 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 12:50:37 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-11-02 12:50:37 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-11-02 12:50:37 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-11-02 12:50:37 #27 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 22404@fouzirbilal
+
+[2025-11-02 12:50:37 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 22404@fouzirbilal
+
+[2025-11-02 12:50:37 #29 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 22404@fouzirbilal
+
+[2025-11-02 12:50:37 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 22404@fouzirbilal
+
+[2025-11-02 12:50:37 #31 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 22404@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 13:00:52 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 19460@fouzirbilal
+
+[2025-11-02 13:00:53 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 19460@fouzirbilal
+
+[2025-11-02 13:00:53 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 19460@fouzirbilal
+
+[2025-11-02 13:00:54 #4 type.registry] 
+New type domain.Driver
+
+[2025-11-02 13:00:54 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 13:00:54 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 13:00:54 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 13:00:54 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 13:00:54 #9 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 13:00:54 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 13:00:54 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 13:00:54 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 13:00:54 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 13:00:54 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 13:00:54 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 13:00:54 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 13:00:54 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 13:00:54 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 13:00:54 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 13:00:54 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 13:00:54 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 13:00:54 #22 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 13:00:54 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 13:00:54 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-11-02 13:00:54 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-11-02 13:00:54 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-11-02 13:00:54 #27 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 19460@fouzirbilal
+
+[2025-11-02 13:00:54 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 19460@fouzirbilal
+
+[2025-11-02 13:00:54 #29 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 19460@fouzirbilal
+
+[2025-11-02 13:00:54 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 19460@fouzirbilal
+
+[2025-11-02 13:00:55 #31 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 19460@fouzirbilal
+
+[2025-11-02 13:00:55 #32 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 19460@fouzirbilal
+
+[2025-11-02 13:00:55 #33 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 19460@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 13:02:28 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 36380@fouzirbilal
+
+[2025-11-02 13:02:28 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 36380@fouzirbilal
+
+[2025-11-02 13:02:28 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 36380@fouzirbilal
+
+[2025-11-02 13:02:29 #4 type.registry] 
+New type domain.Driver
+
+[2025-11-02 13:02:29 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 13:02:29 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 13:02:29 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 13:02:29 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 13:02:29 #9 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 13:02:29 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 13:02:29 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 13:02:29 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 13:02:29 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 13:02:29 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 13:02:29 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 13:02:29 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 13:02:29 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 13:02:29 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 13:02:29 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 13:02:29 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 13:02:29 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 13:02:29 #22 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 13:02:29 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 13:02:29 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-11-02 13:02:29 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-11-02 13:02:29 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-11-02 13:02:29 #27 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 36380@fouzirbilal
+
+[2025-11-02 13:02:29 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 36380@fouzirbilal
+
+[2025-11-02 13:02:29 #29 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 36380@fouzirbilal
+
+[2025-11-02 13:02:29 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 36380@fouzirbilal
+
+[2025-11-02 13:02:29 #31 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 36380@fouzirbilal
+
+[2025-11-02 13:02:29 #32 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 36380@fouzirbilal
+
+[2025-11-02 13:02:29 #33 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 36380@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 13:03:28 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 32032@fouzirbilal
+
+[2025-11-02 13:03:29 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 32032@fouzirbilal
+
+[2025-11-02 13:03:29 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 32032@fouzirbilal
+
+[2025-11-02 13:03:29 #4 type.registry] 
+New type domain.Driver
+
+[2025-11-02 13:03:29 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 13:03:29 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 13:03:29 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 13:03:29 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 13:03:29 #9 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 13:03:29 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 13:03:29 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 13:03:29 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 13:03:29 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 13:03:29 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 13:03:29 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 13:03:29 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 13:03:29 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 13:03:29 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 13:03:29 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 13:03:29 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 13:03:29 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 13:03:29 #22 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 13:03:29 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 13:03:29 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-11-02 13:03:29 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-11-02 13:03:29 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-11-02 13:03:29 #27 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 32032@fouzirbilal
+
+[2025-11-02 13:03:29 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 32032@fouzirbilal
+
+[2025-11-02 13:03:29 #29 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 32032@fouzirbilal
+
+[2025-11-02 13:03:29 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 32032@fouzirbilal
+
+[2025-11-02 13:03:29 #31 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 32032@fouzirbilal
+
+[2025-11-02 13:03:29 #32 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 32032@fouzirbilal
+
+[2025-11-02 13:03:30 #33 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 32032@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 13:05:02 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 1512@fouzirbilal
+
+[2025-11-02 13:05:03 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 1512@fouzirbilal
+
+[2025-11-02 13:05:03 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 1512@fouzirbilal
+
+[2025-11-02 13:05:03 #4 type.registry] 
+New type domain.Driver
+
+[2025-11-02 13:05:03 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 13:05:03 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 13:05:03 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 13:05:03 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 13:05:03 #9 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 13:05:03 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 13:05:03 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 13:05:03 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 13:05:03 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 13:05:03 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 13:05:03 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 13:05:03 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 13:05:03 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 13:05:03 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 13:05:03 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 13:05:03 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 13:05:03 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 13:05:03 #22 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 13:05:03 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 13:05:03 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-11-02 13:05:03 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-11-02 13:05:03 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-11-02 13:05:03 #27 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 1512@fouzirbilal
+
+[2025-11-02 13:05:04 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 1512@fouzirbilal
+
+[2025-11-02 13:05:04 #29 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 1512@fouzirbilal
+
+[2025-11-02 13:05:04 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 1512@fouzirbilal
+
+[2025-11-02 13:05:04 #31 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 1512@fouzirbilal
+
+[2025-11-02 13:05:04 #32 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 1512@fouzirbilal
+
+[2025-11-02 13:05:04 #33 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 1512@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 13:07:48 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 13508@fouzirbilal
+
+[2025-11-02 13:07:48 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 13508@fouzirbilal
+
+[2025-11-02 13:07:48 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 13508@fouzirbilal
+
+[2025-11-02 13:07:49 #4 type.registry] 
+New type domain.Driver
+
+[2025-11-02 13:07:49 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 13:07:49 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 13:07:49 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 13:07:49 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 13:07:49 #9 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 13:07:49 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 13:07:49 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 13:07:49 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 13:07:49 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 13:07:49 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 13:07:49 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 13:07:49 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 13:07:49 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 13:07:49 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 13:07:49 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 13:07:49 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 13:07:49 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 13:07:49 #22 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 13:07:49 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 13:07:49 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-11-02 13:07:49 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-11-02 13:07:49 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-11-02 13:07:49 #27 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 13508@fouzirbilal
+
+[2025-11-02 13:07:49 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 13508@fouzirbilal
+
+[2025-11-02 13:07:49 #29 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 13508@fouzirbilal
+
+[2025-11-02 13:07:49 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 13508@fouzirbilal
+
+[2025-11-02 13:07:49 #31 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 13508@fouzirbilal
+
+[2025-11-02 13:07:49 #32 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 13508@fouzirbilal
+
+[2025-11-02 13:07:49 #33 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 13508@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 13:16:58 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 29064@fouzirbilal
+
+[2025-11-02 13:16:59 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 29064@fouzirbilal
+
+[2025-11-02 13:16:59 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 29064@fouzirbilal
+
+[2025-11-02 13:16:59 #4 type.registry] 
+New type domain.Driver
+
+[2025-11-02 13:16:59 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 13:16:59 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 13:16:59 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 13:16:59 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 13:16:59 #9 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 13:16:59 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 13:16:59 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 13:16:59 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 13:16:59 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 13:16:59 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 13:16:59 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 13:16:59 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 13:16:59 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 13:16:59 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 13:16:59 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 13:16:59 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 13:16:59 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 13:16:59 #22 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 13:16:59 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 13:16:59 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-11-02 13:16:59 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-11-02 13:16:59 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-11-02 13:16:59 #27 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 29064@fouzirbilal
+
+[2025-11-02 13:16:59 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 29064@fouzirbilal
+
+[2025-11-02 13:16:59 #29 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 29064@fouzirbilal
+
+[2025-11-02 13:16:59 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 29064@fouzirbilal
+
+[2025-11-02 13:17:00 #31 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 29064@fouzirbilal
+
+[2025-11-02 13:17:00 #32 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 29064@fouzirbilal
+
+[2025-11-02 13:17:00 #33 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 29064@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 13:18:27 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 30700@fouzirbilal
+
+[2025-11-02 13:18:27 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 30700@fouzirbilal
+
+[2025-11-02 13:18:27 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 30700@fouzirbilal
+
+[2025-11-02 13:18:27 #4 type.registry] 
+New type domain.Driver
+
+[2025-11-02 13:18:27 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 13:18:27 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 13:18:27 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 13:18:27 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 13:18:27 #9 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 13:18:27 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 13:18:27 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 13:18:27 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 13:18:27 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 13:18:27 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 13:18:27 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 13:18:27 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 13:18:27 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 13:18:27 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 13:18:27 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 13:18:27 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 13:18:27 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 13:18:27 #22 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 13:18:27 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 13:18:27 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-11-02 13:18:27 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-11-02 13:18:27 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-11-02 13:18:27 #27 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 30700@fouzirbilal
+
+[2025-11-02 13:18:27 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 30700@fouzirbilal
+
+[2025-11-02 13:18:27 #29 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 30700@fouzirbilal
+
+[2025-11-02 13:18:27 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 30700@fouzirbilal
+
+[2025-11-02 13:18:27 #31 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 30700@fouzirbilal
+
+[2025-11-02 13:18:27 #32 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 30700@fouzirbilal
+
+[2025-11-02 13:18:27 #33 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 30700@fouzirbilal
+
+[2025-11-02 13:18:28 #34 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 30700@fouzirbilal
+
+[2025-11-02 13:18:28 #35 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 30700@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 13:22:18 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 5876@fouzirbilal
+
+[2025-11-02 13:22:18 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 5876@fouzirbilal
+
+[2025-11-02 13:22:18 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 5876@fouzirbilal
+
+[2025-11-02 13:22:19 #4 type.registry] 
+New type domain.Driver
+
+[2025-11-02 13:22:19 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 13:22:19 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 13:22:19 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 13:22:19 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 13:22:19 #9 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 13:22:19 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 13:22:19 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 13:22:19 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 13:22:19 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 13:22:19 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 13:22:19 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 13:22:19 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 13:22:19 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 13:22:19 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 13:22:19 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 13:22:19 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 13:22:19 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 13:22:19 #22 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 13:22:19 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 13:22:19 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-11-02 13:22:19 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-11-02 13:22:19 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-11-02 13:22:19 #27 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 5876@fouzirbilal
+
+[2025-11-02 13:22:19 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 5876@fouzirbilal
+
+[2025-11-02 13:22:19 #29 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 5876@fouzirbilal
+
+[2025-11-02 13:22:19 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 5876@fouzirbilal
+
+[2025-11-02 13:22:19 #31 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 5876@fouzirbilal
+
+[2025-11-02 13:22:19 #32 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 5876@fouzirbilal
+
+[2025-11-02 13:22:19 #33 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 5876@fouzirbilal
+
+[2025-11-02 13:22:19 #34 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 5876@fouzirbilal
+
+[2025-11-02 13:22:19 #35 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 5876@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 13:28:49 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 15492@fouzirbilal
+
+[2025-11-02 13:28:49 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 15492@fouzirbilal
+
+[2025-11-02 13:28:49 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 15492@fouzirbilal
+
+[2025-11-02 13:28:49 #4 type.registry] 
+New type domain.Driver
+
+[2025-11-02 13:28:49 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 13:28:49 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 13:28:49 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 13:28:49 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 13:28:49 #9 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 13:28:49 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 13:28:49 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 13:28:49 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 13:28:49 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 13:28:49 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 13:28:49 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 13:28:49 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 13:28:49 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 13:28:49 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 13:28:49 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 13:28:49 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 13:28:49 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 13:28:49 #22 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 13:28:49 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 13:28:49 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-11-02 13:28:49 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-11-02 13:28:49 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-11-02 13:28:49 #27 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 15492@fouzirbilal
+
+[2025-11-02 13:28:49 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 15492@fouzirbilal
+
+[2025-11-02 13:28:49 #29 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 15492@fouzirbilal
+
+[2025-11-02 13:28:49 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 15492@fouzirbilal
+
+[2025-11-02 13:28:50 #31 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 15492@fouzirbilal
+
+[2025-11-02 13:28:50 #32 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 15492@fouzirbilal
+
+[2025-11-02 13:28:50 #33 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 15492@fouzirbilal
+
+[2025-11-02 13:28:50 #34 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 15492@fouzirbilal
+
+[2025-11-02 13:28:50 #35 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 15492@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 14:25:57 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 19040@fouzirbilal
+
+[2025-11-02 14:25:57 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 19040@fouzirbilal
+
+[2025-11-02 14:25:57 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 19040@fouzirbilal
+
+[2025-11-02 14:25:58 #4 type.registry] 
+New type domain.Driver
+
+[2025-11-02 14:25:58 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 14:25:58 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 14:25:58 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 14:25:58 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 14:25:58 #9 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 14:25:58 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 14:25:58 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 14:25:58 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 14:25:58 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 14:25:58 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 14:25:58 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 14:25:58 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 14:25:58 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 14:25:58 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 14:25:58 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 14:25:58 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 14:25:58 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 14:25:58 #22 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 14:25:58 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 14:25:58 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-11-02 14:25:58 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-11-02 14:25:58 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-11-02 14:25:58 #27 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 19040@fouzirbilal
+
+[2025-11-02 14:25:58 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 19040@fouzirbilal
+
+[2025-11-02 14:25:58 #29 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 19040@fouzirbilal
+
+[2025-11-02 14:25:58 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 19040@fouzirbilal
+
+[2025-11-02 14:25:58 #31 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 19040@fouzirbilal
+
+[2025-11-02 14:25:58 #32 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 19040@fouzirbilal
+
+[2025-11-02 14:25:58 #33 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 19040@fouzirbilal
+
+[2025-11-02 14:25:58 #34 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 19040@fouzirbilal
+
+[2025-11-02 14:25:58 #35 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 19040@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 14:38:30 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 6396@fouzirbilal
+
+[2025-11-02 14:38:30 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 6396@fouzirbilal
+
+[2025-11-02 14:38:30 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 6396@fouzirbilal
+
+[2025-11-02 14:38:30 #4 type.registry] 
+New type domain.Driver
+
+[2025-11-02 14:38:30 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 14:38:30 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 14:38:30 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 14:38:30 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 14:38:30 #9 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 14:38:30 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 14:38:30 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 14:38:30 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 14:38:30 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 14:38:30 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 14:38:30 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 14:38:30 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 14:38:30 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 14:38:30 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 14:38:30 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 14:38:30 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 14:38:30 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 14:38:30 #22 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 14:38:30 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 14:38:30 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-11-02 14:38:30 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-11-02 14:38:30 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-11-02 14:38:30 #27 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 6396@fouzirbilal
+
+[2025-11-02 14:38:30 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 6396@fouzirbilal
+
+[2025-11-02 14:38:30 #29 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 6396@fouzirbilal
+
+[2025-11-02 14:38:30 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 6396@fouzirbilal
+
+[2025-11-02 14:38:31 #31 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 6396@fouzirbilal
+
+[2025-11-02 14:38:31 #32 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 6396@fouzirbilal
+
+[2025-11-02 14:38:31 #33 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 6396@fouzirbilal
+
+[2025-11-02 14:38:31 #34 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 6396@fouzirbilal
+
+[2025-11-02 14:38:31 #35 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 6396@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 14:46:00 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 32744@fouzirbilal
+
+[2025-11-02 14:46:00 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 32744@fouzirbilal
+
+[2025-11-02 14:46:00 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 32744@fouzirbilal
+
+[2025-11-02 14:46:00 #4 type.registry] 
+New type domain.Driver
+
+[2025-11-02 14:46:00 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 14:46:00 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 14:46:00 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 14:46:00 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 14:46:00 #9 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 14:46:00 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 14:46:00 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 14:46:00 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 14:46:00 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 14:46:00 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 14:46:00 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 14:46:00 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 14:46:00 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 14:46:00 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 14:46:00 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 14:46:00 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 14:46:00 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 14:46:00 #22 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 14:46:00 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 14:46:00 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-11-02 14:46:00 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-11-02 14:46:00 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-11-02 14:46:00 #27 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 32744@fouzirbilal
+
+[2025-11-02 14:46:00 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 32744@fouzirbilal
+
+[2025-11-02 14:46:00 #29 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 32744@fouzirbilal
+
+[2025-11-02 14:46:00 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 32744@fouzirbilal
+
+[2025-11-02 14:46:00 #31 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 32744@fouzirbilal
+
+[2025-11-02 14:46:00 #32 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 32744@fouzirbilal
+
+[2025-11-02 14:46:00 #33 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 32744@fouzirbilal
+
+[2025-11-02 14:46:00 #34 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 32744@fouzirbilal
+
+[2025-11-02 14:46:00 #35 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 32744@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 14:46:34 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 30960@fouzirbilal
+
+[2025-11-02 14:46:34 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 30960@fouzirbilal
+
+[2025-11-02 14:46:34 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 30960@fouzirbilal
+
+[2025-11-02 14:46:35 #4 type.registry] 
+New type domain.Driver
+
+[2025-11-02 14:46:35 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 14:46:35 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 14:46:35 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 14:46:35 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 14:46:35 #9 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 14:46:35 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 14:46:35 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 14:46:35 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 14:46:35 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 14:46:35 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 14:46:35 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 14:46:35 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 14:46:35 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 14:46:35 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 14:46:35 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 14:46:35 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 14:46:35 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 14:46:35 #22 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 14:46:35 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 14:46:35 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-11-02 14:46:35 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-11-02 14:46:35 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-11-02 14:46:35 #27 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 30960@fouzirbilal
+
+[2025-11-02 14:46:35 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 30960@fouzirbilal
+
+[2025-11-02 14:46:35 #29 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 30960@fouzirbilal
+
+[2025-11-02 14:46:35 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 30960@fouzirbilal
+
+[2025-11-02 14:46:35 #31 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 30960@fouzirbilal
+
+[2025-11-02 14:46:35 #32 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 30960@fouzirbilal
+
+[2025-11-02 14:46:35 #33 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 30960@fouzirbilal
+
+[2025-11-02 14:46:35 #34 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 30960@fouzirbilal
+
+[2025-11-02 14:46:35 #35 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 30960@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 14:48:28 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 6744@fouzirbilal
+
+[2025-11-02 14:48:29 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 6744@fouzirbilal
+
+[2025-11-02 14:48:29 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 6744@fouzirbilal
+
+[2025-11-02 14:48:29 #4 type.registry] 
+New type domain.Driver
+
+[2025-11-02 14:48:29 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 14:48:29 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 14:48:29 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 14:48:29 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 14:48:29 #9 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 14:48:29 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 14:48:29 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 14:48:29 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 14:48:29 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 14:48:29 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 14:48:29 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 14:48:29 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 14:48:29 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 14:48:29 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 14:48:29 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 14:48:29 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 14:48:29 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 14:48:29 #22 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 14:48:29 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 14:48:29 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-11-02 14:48:29 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-11-02 14:48:29 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-11-02 14:48:29 #27 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 6744@fouzirbilal
+
+[2025-11-02 14:48:29 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 6744@fouzirbilal
+
+[2025-11-02 14:48:29 #29 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 6744@fouzirbilal
+
+[2025-11-02 14:48:29 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 6744@fouzirbilal
+
+[2025-11-02 14:48:29 #31 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 6744@fouzirbilal
+
+[2025-11-02 14:48:29 #32 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 6744@fouzirbilal
+
+[2025-11-02 14:48:29 #33 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 6744@fouzirbilal
+
+[2025-11-02 14:48:29 #34 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 6744@fouzirbilal
+
+[2025-11-02 14:48:30 #35 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 6744@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 14:55:15 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 20280@fouzirbilal
+
+[2025-11-02 14:55:15 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 20280@fouzirbilal
+
+[2025-11-02 14:55:15 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 20280@fouzirbilal
+
+[2025-11-02 14:55:16 #4 type.registry] 
+New type domain.Driver
+
+[2025-11-02 14:55:16 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 14:55:16 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 14:55:16 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 14:55:16 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 14:55:16 #9 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 14:55:16 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 14:55:16 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 14:55:16 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 14:55:16 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 14:55:16 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 14:55:16 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 14:55:16 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 14:55:16 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 14:55:16 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 14:55:16 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 14:55:16 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 14:55:16 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 14:55:16 #22 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 14:55:16 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 14:55:16 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-11-02 14:55:16 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-11-02 14:55:16 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-11-02 14:55:16 #27 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 20280@fouzirbilal
+
+[2025-11-02 14:55:16 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 20280@fouzirbilal
+
+[2025-11-02 14:55:16 #29 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 20280@fouzirbilal
+
+[2025-11-02 14:55:16 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 20280@fouzirbilal
+
+[2025-11-02 14:55:16 #31 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 20280@fouzirbilal
+
+[2025-11-02 14:55:16 #32 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 20280@fouzirbilal
+
+[2025-11-02 14:55:16 #33 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 20280@fouzirbilal
+
+[2025-11-02 14:55:16 #34 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 20280@fouzirbilal
+
+[2025-11-02 14:55:17 #35 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 20280@fouzirbilal
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-11-02 14:59:07 #1 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 14012@fouzirbilal
+
+[2025-11-02 14:59:08 #2 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 14012@fouzirbilal
+
+[2025-11-02 14:59:08 #3 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 14012@fouzirbilal
+
+[2025-11-02 14:59:08 #4 type.registry] 
+New type domain.Driver
+
+[2025-11-02 14:59:08 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-11-02 14:59:08 #6 type.registry] 
+New type domain.Ride
+
+[2025-11-02 14:59:08 #7 type.registry] 
+New type domain.Kotxea
+
+[2025-11-02 14:59:08 #8 type.registry] 
+New type java.util.LinkedList<domain.Kotxea>
+
+[2025-11-02 14:59:08 #9 type.registry] 
+New type domain.Transaction
+
+[2025-11-02 14:59:08 #10 type.registry] 
+New type java.util.LinkedList<domain.Transaction>
+
+[2025-11-02 14:59:08 #11 type] 
+Type domain.Ride is not enhanced.
+
+[2025-11-02 14:59:08 #12 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-11-02 14:59:08 #13 type.registry] 
+New type java.util.LinkedList<domain.Erreklamazioa>
+
+[2025-11-02 14:59:08 #14 type.registry] 
+New type domain.Balorazioa
+
+[2025-11-02 14:59:08 #15 type.registry] 
+New type java.util.LinkedList<domain.Balorazioa>
+
+[2025-11-02 14:59:08 #16 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-11-02 14:59:08 #17 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-11-02 14:59:08 #18 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-11-02 14:59:08 #19 type.registry] 
+New type domain.Erreserba
+
+[2025-11-02 14:59:08 #20 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-11-02 14:59:08 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-11-02 14:59:08 #22 type.registry] 
+New type domain.Traveler
+
+[2025-11-02 14:59:08 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-11-02 14:59:08 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2025-11-02 14:59:08 #25 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-11-02 14:59:08 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-11-02 14:59:08 #27 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 14012@fouzirbilal
+
+[2025-11-02 14:59:09 #28 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 14012@fouzirbilal
+
+[2025-11-02 14:59:09 #29 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 14012@fouzirbilal
+
+[2025-11-02 14:59:09 #30 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 14012@fouzirbilal
+
+[2025-11-02 14:59:09 #31 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 14012@fouzirbilal
+
+[2025-11-02 14:59:09 #32 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 14012@fouzirbilal
+
+[2025-11-02 14:59:09 #33 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 14012@fouzirbilal
+
+[2025-11-02 14:59:09 #34 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is opened by 14012@fouzirbilal
+
+[2025-11-02 14:59:09 #35 store] 
+Database 'C:\Users\fouzi\git\Rides25\src\main\resources\rides.temp' is closed by 14012@fouzirbilal
+

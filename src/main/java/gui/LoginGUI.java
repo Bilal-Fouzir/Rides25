@@ -25,7 +25,7 @@ import service.BLFacade;
 import service.BLFacadeImplementation;
 
 public class LoginGUI extends JFrame {
-	private ApplicationLauncher app = new ApplicationLauncher(); //APP
+	//APP
 	private static final long serialVersionUID = 1L;
 	private JPanel jContentPane = null;
 	private JPasswordField jPasswordField;
@@ -44,7 +44,7 @@ public class LoginGUI extends JFrame {
 	private final JRadioButton rdbtnNewRadioButton_2 = new JRadioButton("Castellano");
 	private final JRadioButton rdbtnNewRadioButton_3 = new JRadioButton("Euskara");
 	private static String let = "Tahoma";
-	private static BLFacade appFacadeInterface = new BLFacadeImplementation();
+	private static BLFacade appFacadeInterface= new BLFacadeImplementation();
 	private final JButton jButtonQueryRides = new JButton(ResourceBundle.getBundle(etik).getString("LoginGUI.QueryRides"));
 	
 	private static String loc = "Locale: ";

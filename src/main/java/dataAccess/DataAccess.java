@@ -28,6 +28,7 @@ import exceptions.*;
 public class DataAccess {
 	private EntityManager db;
 	private EntityManagerFactory emf;
+	private static DataAccess instance;
  
 	ConfigXML c = ConfigXML.getInstance();
 //beeb
@@ -51,12 +52,16 @@ public class DataAccess {
 			initializeDB();
 		System.out.println("DataAccess created => isDatabaseLocal: " + c.isDatabaseLocal() + " isDatabaseInitialized: "+ c.isDatabaseInitialized());
 		close();
-
 	}
 
 	public DataAccess(EntityManager db) {
 		this.db = db;
 	}
+	public static DataAccess getInstance() {
+        if (instance == null)
+            instance = new DataAccess();
+        return instance;
+    }
 
 	/**
 	 * This is the data access method that initializes the database with some events
@@ -98,6 +103,7 @@ public class DataAccess {
 			 * db.persist(driver1); db.persist(driver2); db.persist(driver3);
 			 * 
 			 */
+			//db.persist(new Ride());
 			db.getTransaction().commit();
 			System.out.println("Db initialized");
 		} catch (Exception e) {
@@ -111,9 +117,19 @@ public class DataAccess {
 	 * @return collection of cities
 	 */
 	public List<String> getDepartCities() {
-		TypedQuery<String> query = db.createQuery("SELECT DISTINCT r.from FROM Ride r ORDER BY r.from", String.class);
-		List<String> cities = query.getResultList();
+		db.persist(new Ride());
+		List<String> cities = new LinkedList<>();
+		try {
+			
+			TypedQuery<String> query = db.createQuery("SELECT DISTINCT r.from FROM Ride r ORDER BY r.from", String.class);
+			cities = query.getResultList();
+			System.out.print("bebe");
+		} catch (Exception e) {
+			
+		}
 		return cities;
+		
+		
 
 	}
 
