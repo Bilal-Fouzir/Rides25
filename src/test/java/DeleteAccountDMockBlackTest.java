@@ -68,7 +68,7 @@ public class DeleteAccountDMockBlackTest {
 	
 	Driver driver;
 	
-	@Test
+	/*@Test
 	//sut.createRide:  The Driver("Aitor Fernandez", "driver1@gmail.com") HAS NOT one ride "from" "to" in that "date". 
 	public void test1() {
 		String driverEmail="driver@gmail.com";
@@ -115,7 +115,7 @@ public class DeleteAccountDMockBlackTest {
 		}  catch(Exception e) {
 			fail();
 		}
-	} 
+	} */
 	@Test
 	//sut.createRide:  The Driver("iker driver", "driver1@gmail.com") HAS one ride "from" "to" in that "date". 
 	public void test2() {

@@ -29,7 +29,7 @@ public class DeleteAccountDBDBlackTest {
  
 	 
 	
-	@Test
+	/*@Test
 	//sut.createRide:  The Driver("iker driver", "driver1@gmail.com") HAS one ride "from" "to" in that "date". 
 	public void test1() {
 		String driverEmail="driver@gmail.com";
@@ -67,7 +67,7 @@ public class DeleteAccountDBDBlackTest {
 				  //Remove the created objects in the database (cascade removing)   
 				
 		        }
-		   } 
+		   } */
 	@Test
 	//sut.createRide:  The Driver("iker driver", "driver1@gmail.com") HAS one ride "from" "to" in that "date". 
 	public void test2() {

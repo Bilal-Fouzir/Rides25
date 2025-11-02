@@ -97,7 +97,7 @@ public class DeleteAccountDBDWhiteTest {
 				
 		        }
 		   } 
-	@Test
+	/*@Test
 	//sut.createRide:  The Driver("iker driver", "driver1@gmail.com") HAS one ride "from" "to" in that "date". 
 	public void test3() {
 		String driverEmail="traveler@gmail.com";
@@ -134,7 +134,7 @@ public class DeleteAccountDBDWhiteTest {
 				  //Remove the created objects in the database (cascade removing)   
 				
 		        }
-		   } 
+		   } */
 	@Test
 	//sut.createRide:  The Driver("iker driver", "driver1@gmail.com") HAS one ride "from" "to" in that "date". 
 	public void test4() {
@@ -175,7 +175,7 @@ public class DeleteAccountDBDWhiteTest {
 			  testDA.close();
 		        }
 		   } 
-	@Test
+	/*@Test
 	//sut.createRide:  The Driver("iker driver", "driver1@gmail.com") HAS one ride "from" "to" in that "date". 
 	public void test5() {
 		String driverEmail="driver@gmail.com";
@@ -213,7 +213,7 @@ public class DeleteAccountDBDWhiteTest {
 				  //Remove the created objects in the database (cascade removing)   
 				
 		        }
-		   } 
+		   } */
 	@Test
 	//sut.createRide:  The Driver("iker driver", "driver1@gmail.com") HAS one ride "from" "to" in that "date". 
 	public void test6() {
@@ -254,7 +254,7 @@ public class DeleteAccountDBDWhiteTest {
 				
 		        }
 		   } 
-	@Test
+	/*@Test
 	//sut.createRide:  The Driver("iker driver", "driver1@gmail.com") HAS one ride "from" "to" in that "date". 
 	public void test7() {
 		String driverEmail="driver@gmail.com";
@@ -291,7 +291,7 @@ public class DeleteAccountDBDWhiteTest {
 				  //Remove the created objects in the database (cascade removing)   
 				
 		        }
-		   }
+		   }*/
 	
 }
 

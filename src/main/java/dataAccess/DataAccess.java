@@ -638,7 +638,7 @@ public class DataAccess {
 		db.getTransaction().begin();
 		try {
 			deleteTran(t,null);
-			kontsultakT(t);
+			lotutakoEzabapenakT(t);
 			db.remove(db.find(Traveler.class, t.getEmail()));
 			db.getTransaction().commit();
 		} catch (Exception e) {
@@ -653,12 +653,13 @@ public class DataAccess {
 	 * @param d         The driver that we want to remove
 	 * @throws Exception if the driver is null or the driver does not exist in the DB
 	 */
+	//
 	public void deleteAccountD(Driver d) throws Exception {
 		db.getTransaction().begin();
 		try {
 			deleteTran(null,d);
 			deleteKotx(d);
-			kontsultakD(d);
+			lotutakoEzabapenakD(d);
 			db.remove(db.find(Driver.class, d.getEmail()));
 			db.getTransaction().commit();
 		} catch (Exception e) {
@@ -666,7 +667,7 @@ public class DataAccess {
 			throw new Exception();
 		}
 	}
-	public void kontsultakD(Driver d) {
+	public void lotutakoEzabapenakD(Driver d) {
 		TypedQuery<Alerta> query5 = db.createQuery("DELETE FROM Alerta p WHERE p.ride.driver.email = :s",Alerta.class);
 		query5.setParameter("s", d.getEmail());
 		query5.executeUpdate();
@@ -683,7 +684,7 @@ public class DataAccess {
 		query2.setParameter("s", d.getEmail());
 		query2.executeUpdate();
 	}
-	public void kontsultakT(Traveler t) {
+	public void lotutakoEzabapenakT(Traveler t) {
 		TypedQuery<Alerta> query2 = db.createQuery("DELETE FROM Alerta e WHERE e.email = :s", Alerta.class);
 		query2.setParameter("s", t.getEmail());
 		query2.executeUpdate();

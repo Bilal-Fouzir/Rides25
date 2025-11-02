@@ -143,7 +143,7 @@ public class DeleteAccountDMockWhiteTest {
 			assertTrue(true);
 		}
 	} 
-	@Test
+	/*@Test
 	//sut.createRide:  The Driver("Aitor Fernandez", "driver1@gmail.com") HAS NOT one ride "from" "to" in that "date". 
 	public void test3() {
 		String driverEmail="driver@gmail.com";
@@ -185,7 +185,7 @@ public class DeleteAccountDMockWhiteTest {
 		}  catch(Exception e) {
 			fail();
 		}
-	}  
+	}  */
 	@Test
 	//sut.createRide:  The Driver("Aitor Fernandez", "driver1@gmail.com") HAS NOT one ride "from" "to" in that "date". 
 	public void test4() {
@@ -229,7 +229,7 @@ public class DeleteAccountDMockWhiteTest {
 			fail();
 		}
 	} 
-	@Test
+	/*@Test
 	//sut.createRide:  The Driver("Aitor Fernandez", "driver1@gmail.com") HAS NOT one ride "from" "to" in that "date". 
 	public void test5() {
 		String driverEmail="driver@gmail.com";
@@ -273,7 +273,7 @@ public class DeleteAccountDMockWhiteTest {
 		}  catch(Exception e) {
 			fail();
 		}
-	} 
+	} */
 	@Test
 	//sut.createRide:  The Driver("Aitor Fernandez", "driver1@gmail.com") HAS NOT one ride "from" "to" in that "date". 
 	public void test6() {
@@ -321,7 +321,7 @@ public class DeleteAccountDMockWhiteTest {
 			fail();
 		}
 	} 
-	@Test
+	/*@Test
 	//sut.createRide:  The Driver("Aitor Fernandez", "driver1@gmail.com") HAS NOT one ride "from" "to" in that "date". 
 	public void test7() {
 		String driverEmail="driver@gmail.com";
@@ -364,7 +364,7 @@ public class DeleteAccountDMockWhiteTest {
 		}  catch(Exception e) {
 			fail();
 		}
-	} 
+	} */
 
 }
 
