@@ -27,6 +27,7 @@ public class AdapterMain {
 		// TODO Auto-generated catch block
 		e.printStackTrace();
 	}
+	//a
 	
 	}
 }
